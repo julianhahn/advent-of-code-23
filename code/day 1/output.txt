@@ -1,0 +1,4915 @@
+[ '1' ]
+zlmlk1
+[ '1' ]
+11
+[ '7', '9', '1', 'seven', 'one' ]
+vqjvxtc79mvdnktdsxcqc1sevenone
+[ '7', '9', '1', '7', '1' ]
+71
+[ 'seven', '6' ]
+vsskdclbtmjmvrseven6
+[ '7', '6' ]
+76
+[ '8', 'eight', '7', 'seven', '8' ]
+8jkfncbeight7seven8
+[ '8', '8', '7', '7', '8' ]
+88
+[ 'six', '8' ]
+six8dbfrsxp
+[ '6', '8' ]
+68
+[ '2', 'one', '6', '8', 'six' ]
+2zpcbjdxcjfone68six
+[ '2', '1', '6', '8', '6' ]
+26
+[
+  'five',  'three',
+  'eight', '8',
+  '7',     '9',
+  '8'
+]
+zqmzgfivethreefdnlhpeight8798
+[
+  '5', '3', '8',
+  '8', '7', '9',
+  '8'
+]
+58
+[ 'five', 'nine', 'one', '6' ]
+fivenineone6
+[ '5', '9', '1', '6' ]
+56
+[ '6', 'six', 'two', 'nine' ]
+6sixzvdsprdqlftwonine
+[ '6', '6', '2', '9' ]
+69
+[ 'two', '8' ]
+lqztrmztwo8dg
+[ '2', '8' ]
+28
+[ 'four', '6', 'one', '2' ]
+four6onerv2pfhm
+[ '4', '6', '1', '2' ]
+42
+[ '5' ]
+plvzrs5
+[ '5' ]
+55
+[
+  '5', '2', '8',
+  '2', '9', '1',
+  '8'
+]
+5282gdnc918
+[
+  '5', '2', '8',
+  '2', '9', '1',
+  '8'
+]
+58
+[
+  'one',  'one',
+  'nine', '9',
+  '6',    'five',
+  'four'
+]
+pskjsrchjpxoneonenine96fivefour
+[
+  '1', '1', '9',
+  '9', '6', '5',
+  '4'
+]
+14
+[ 'five', 'four', '2', '4' ]
+fivefour2hhtprpjndm4
+[ '5', '4', '2', '4' ]
+54
+[ '6', '1', 'eight' ]
+6qbdcfdjsd1lmldklflteight
+[ '6', '1', '8' ]
+68
+[ 'nine', '6', '5', '8' ]
+gctgdhpkkjninekj65rkqg8
+[ '9', '6', '5', '8' ]
+98
+[ 'eight', '6', '5' ]
+eight6gcjlsmzt5
+[ '8', '6', '5' ]
+85
+[ '5', '7' ]
+5chvmhmfgl7xkjfdpdbp
+[ '5', '7' ]
+57
+[ '5', 'nine' ]
+5tpzpnrgpftrnine
+[ '5', '9' ]
+59
+[ 'three', 'one', '1' ]
+threeonehqbzktq1
+[ '3', '1', '1' ]
+31
+[
+  '6',   '8',
+  '5',   'five',
+  'two', 'four',
+  '4'
+]
+685fivetwofour4lvgxgdb
+[
+  '6', '8', '5',
+  '5', '2', '4',
+  '4'
+]
+64
+[ '9', 'seven' ]
+9jdxljkfqttstqxdzdsztsxrfjbkqmmsqzseven
+[ '9', '7' ]
+97
+[ 'two', 'two', '1', '5', 'seven' ]
+twostcllbpndtwo15seven
+[ '2', '2', '1', '5', '7' ]
+27
+[ '8', 'five', 'two', 'five', '5', '7' ]
+8fivetwofivetjfvsxzs5kdkpxgxvsfhr7
+[ '8', '5', '2', '5', '5', '7' ]
+87
+[ 'seven', '2', 'five', 'five', 'six', 'four' ]
+sevenlvrc2fivefivesixqkzdkrfour
+[ '7', '2', '5', '5', '6', '4' ]
+74
+[ '4', '5' ]
+45jjpmnscmmk
+[ '4', '5' ]
+45
+[ '6' ]
+lhxgbfjtcknpvz6
+[ '6' ]
+66
+[ '3', 'five', 'three' ]
+tndgnkcqtjbrzgbrfjr3fiveqxlktntzthree
+[ '3', '5', '3' ]
+33
+[ '6', 'three', 'eight' ]
+vqb6threeeightbdt
+[ '6', '3', '8' ]
+68
+[
+  '1',     'eight',
+  'eight', '7',
+  'four',  'one',
+  '8'
+]
+1eighteight7fourone8
+[
+  '1', '8', '8',
+  '7', '4', '1',
+  '8'
+]
+18
+[ '9', 'one', 'eight', '6', 'two', 'one' ]
+bcmqn9onecnrzhsrsgzggzhtskjeightbz6khfhccktwonenrj
+[ '9', '1', '8', '6', '2', '1' ]
+91
+[ '6', 'four', 'eight' ]
+6qmgkbkmlxfourprhxrxrdseight
+[ '6', '4', '8' ]
+68
+[ '9', 'three', '4', '7', '9' ]
+9three479
+[ '9', '3', '4', '7', '9' ]
+99
+[ '9', 'two', '6', 'eight' ]
+9two6zhtjzfmjrteight
+[ '9', '2', '6', '8' ]
+98
+[ '1', 'five', '7', '7', '5' ]
+1fiverrxdmvfvxhs7jqzzqpcflzt75
+[ '1', '5', '7', '7', '5' ]
+15
+[ 'eight', '6', 'one' ]
+pnjmlpbbeightskgdf6one
+[ '8', '6', '1' ]
+81
+[ '6', '1', '3', '5' ]
+6cpzqzfsjtpfq135
+[ '6', '1', '3', '5' ]
+65
+[ '4', '8', '4' ]
+484
+[ '4', '8', '4' ]
+44
+[ 'five', 'six', 'three', 'seven', '3', '6' ]
+llfvhxglfivesixthreenseven36
+[ '5', '6', '3', '7', '3', '6' ]
+56
+[ '9', '7' ]
+jhcpt9rq7fhzbnhk
+[ '9', '7' ]
+97
+[ 'three', '5', 'one', 'seven', '2' ]
+tthree5lrgtbxxvonezfmdpseven2
+[ '3', '5', '1', '7', '2' ]
+32
+[ '6', '7', 'six' ]
+67jmrxfdmfbmzsixkzghng
+[ '6', '7', '6' ]
+66
+[
+  'six',   'three',
+  'one',   '2',
+  'seven', 'four',
+  'seven'
+]
+sixthreefdbzhslqone2sevenfoursevennlnpjgsx
+[
+  '6', '3', '1',
+  '2', '7', '4',
+  '7'
+]
+67
+[ '5', '4' ]
+54zrkfbfq
+[ '5', '4' ]
+54
+[ 'six', '7', 'nine', '7' ]
+six7rfpfbzbghxcnxlnfjkznine7
+[ '6', '7', '9', '7' ]
+67
+[ '8', 'four', '3', '3', '8' ]
+8dfoursm338cz
+[ '8', '4', '3', '3', '8' ]
+88
+[ 'seven', 'five', 'eight', 'one', '6', '8' ]
+sevenfiveeightone68
+[ '7', '5', '8', '1', '6', '8' ]
+78
+[ '2', '3', '6', '5', '3' ]
+dqmvcbdclx23653
+[ '2', '3', '6', '5', '3' ]
+23
+[ 'eight', '5', '8' ]
+eight58qgjlcvflrggndskff
+[ '8', '5', '8' ]
+88
+[ '2', '8' ]
+shmmk28
+[ '2', '8' ]
+28
+[ '9', '3', 'eight', '1' ]
+93eightdtgcnhphv1
+[ '9', '3', '8', '1' ]
+91
+[ '3' ]
+gdtdjgggtj3dgrqsmvfh
+[ '3' ]
+33
+[ 'one', '3', '3', '2', 'three' ]
+one3pksbh32three
+[ '1', '3', '3', '2', '3' ]
+13
+[ '9', 'two', 'one', 'five' ]
+9kkpjrmhmmlzvqngnhftwoonexjqmnfive
+[ '9', '2', '1', '5' ]
+95
+[ 'seven', '7' ]
+rlsevenblrvrk7
+[ '7', '7' ]
+77
+[ 'nine', '9' ]
+nine9hqmtshkjdhs
+[ '9', '9' ]
+99
+[ '9', '3', '7', '3', '4' ]
+93fdbrbnnvxsktggqnjfjk7brsncmxkcfzhm34
+[ '9', '3', '7', '3', '4' ]
+94
+[ '2', '4', '8', 'two', 'eight', 'two' ]
+248twofbkfpxtheightwovng
+[ '2', '4', '8', '2', '8', '2' ]
+22
+[
+  '2',    '8',
+  '7',    '4',
+  '6',    'three',
+  'five', 'seven'
+]
+28746threecbffiveseven
+[
+  '2', '8', '7',
+  '4', '6', '3',
+  '5', '7'
+]
+27
+[ 'eight', '4', '4', '9' ]
+eight449
+[ '8', '4', '4', '9' ]
+89
+[ '4', 'eight', 'nine', '4' ]
+4eightnine4ptmzvpfqxhrzvrpjhfsdsvlhbht
+[ '4', '8', '9', '4' ]
+44
+[ 'seven', 'seven', 'five', '6' ]
+sevensevenfive6bjf
+[ '7', '7', '5', '6' ]
+76
+[ 'three', '2', 'one' ]
+sqthreevhmvbgxvnk2one
+[ '3', '2', '1' ]
+31
+[ 'six', '5', 'seven', '3', '1' ]
+ghpsix5seven31
+[ '6', '5', '7', '3', '1' ]
+61
+[ '7', 'two', 'three', 'one' ]
+7llnsgdtzbxjbbqcmxfhgcdnptwothreeone
+[ '7', '2', '3', '1' ]
+71
+[ 'eight', '3', 'four', 'one' ]
+eight3fouroneplsrfvqf
+[ '8', '3', '4', '1' ]
+81
+[ '4', 'six', '6', 'one' ]
+4six6one
+[ '4', '6', '6', '1' ]
+41
+[ '2', '7', 'two', '8' ]
+27twofvlssjbsk8j
+[ '2', '7', '2', '8' ]
+28
+[ '8', 'four' ]
+njlllqnrvx8four
+[ '8', '4' ]
+84
+[ '5', 'one', 'seven', '9', 'four' ]
+5onekcngbbmpnxseven9fourzcprjp
+[ '5', '1', '7', '9', '4' ]
+54
+[ 'seven', 'five', '2', 'seven' ]
+sevenfive2sevenknzpxtx
+[ '7', '5', '2', '7' ]
+77
+[ '8', 'eight', 'two', '1' ]
+8eightljhtmnxpjhxhnqtwo1rjddcbj
+[ '8', '8', '2', '1' ]
+81
+[ '3', 'six', 'five', 'three' ]
+mzsqh3sixfivethree
+[ '3', '6', '5', '3' ]
+33
+[ 'eight', 'two', 'eight', 'eight', '5' ]
+deightwoeighteight5
+[ '8', '2', '8', '8', '5' ]
+85
+[
+  'nine',  '4',
+  '2',     'seven',
+  'eight', '9',
+  '7'
+]
+nine42sevenscnjeight97
+[
+  '9', '4', '2',
+  '7', '8', '9',
+  '7'
+]
+97
+[ '2', 'four', 'five', 'seven', 'seven', '4' ]
+2gcrkrfourfivenpzssevenseven4
+[ '2', '4', '5', '7', '7', '4' ]
+24
+[ 'eight', 'two', 'seven', '3', 'two' ]
+eightdtwosevenmj3two
+[ '8', '2', '7', '3', '2' ]
+82
+[ '9', '3' ]
+9zkhqlcd3
+[ '9', '3' ]
+93
+[ 'one', 'five', '9' ]
+ctpncdkcmonehfive9
+[ '1', '5', '9' ]
+19
+[
+  'six', 'two',
+  '7',   'nine',
+  '6',   '8',
+  '9'
+]
+sixrtwo7rqnine689
+[
+  '6', '2', '7',
+  '9', '6', '8',
+  '9'
+]
+69
+[ 'seven', '1', '6', '4' ]
+sevenm16gshq4xqdxqbhcl
+[ '7', '1', '6', '4' ]
+74
+[ '6' ]
+zxxnrpstkkmnhcc6
+[ '6' ]
+66
+[ 'three', '1', 'six', 'nine', 'eight' ]
+three1sixninelsxrbkpneight
+[ '3', '1', '6', '9', '8' ]
+38
+[ '5' ]
+jzkfvrtmctjz5
+[ '5' ]
+55
+[ '4', 'nine' ]
+sdsfrh4nine
+[ '4', '9' ]
+49
+[ 'four', 'eight', 'five', '7', 'six' ]
+foureightfive7six
+[ '4', '8', '5', '7', '6' ]
+46
+[
+  'nine',  'six',
+  'five',  'five',
+  '5',     '3',
+  'seven'
+]
+ninesixfivefive53seven
+[
+  '9', '6', '5',
+  '5', '5', '3',
+  '7'
+]
+97
+[ '4', '2', 'three', '5' ]
+42threezpvxnrg5sfzctbtk
+[ '4', '2', '3', '5' ]
+45
+[ 'seven', '7', 'three' ]
+seven7pkfnqggvjthreextfksczdd
+[ '7', '7', '3' ]
+73
+[ '6', '1', 'seven' ]
+xsb6ntlfzxvlxrkx1sevenkmnqxhcdnqkdzt
+[ '6', '1', '7' ]
+67
+[ '6' ]
+6sbzfqfdm
+[ '6' ]
+66
+[ 'seven', '9', '4', 'eight', 'six', '5' ]
+lrfjxppqbdseven94ntnskpkdqeightsix5xskh
+[ '7', '9', '4', '8', '6', '5' ]
+75
+[ '9', '8' ]
+98czzcq
+[ '9', '8' ]
+98
+[ '6', '9', '6', 'two', '6' ]
+696cmcdpztwojk6tz
+[ '6', '9', '6', '2', '6' ]
+66
+[ '6', '4', 'four', '2', 'one' ]
+jbpfbqfdd64four2onezrfm
+[ '6', '4', '4', '2', '1' ]
+61
+[ '9', 'five', '5', '8' ]
+9jfklkpcffive5phpzqvhrtcqvmxvmgljn8
+[ '9', '5', '5', '8' ]
+98
+[ '3', '2', '9', 'six', '5', '6' ]
+329sixjglqzqzjnlsqbnqnzsb56
+[ '3', '2', '9', '6', '5', '6' ]
+36
+[ '5', '9', 'three' ]
+59three
+[ '5', '9', '3' ]
+53
+[ '4', '8', '6', '3', 'five' ]
+4863five
+[ '4', '8', '6', '3', '5' ]
+45
+[ '6', '7', 'nine' ]
+6txkcgtn7gtsxgtnine
+[ '6', '7', '9' ]
+69
+[ '8', 'eight', '2', '6' ]
+lxdtnjvjbgxpnrft8eight2cjqfdtrk6dm
+[ '8', '8', '2', '6' ]
+86
+[ 'two', 'three', '5', '3' ]
+twothree53
+[ '2', '3', '5', '3' ]
+23
+[ 'two', '1', '4' ]
+two1qf4
+[ '2', '1', '4' ]
+24
+[ '6', 'five' ]
+6ltxhxcdfive
+[ '6', '5' ]
+65
+[ '6' ]
+rlrdkzgnk6mnsbxfkhh
+[ '6' ]
+66
+[ '4', '1', '4', 'six', 'two' ]
+41z4nzcqzjqrnmsixtrrbgtwo
+[ '4', '1', '4', '6', '2' ]
+42
+[ 'six', 'six', 'two', '6' ]
+tbnsixsixtwomptdjtzkxfhlflpcdnbmrbctjscxq6qtmjmkpfk
+[ '6', '6', '2', '6' ]
+66
+[ '1', 'eight', 'two' ]
+1vqlkjtmjeightcjzxnzscczqmxcpvnprhtwo
+[ '1', '8', '2' ]
+12
+[ 'nine', 'six', '3', '4', '4' ]
+lznhcphkdmrhpninesix344
+[ '9', '6', '3', '4', '4' ]
+94
+[ '1', '4', 'two' ]
+fggprsvtgmbbtlk14xkrnbcjrdbrsbdltfztmtwo
+[ '1', '4', '2' ]
+12
+[ '6', '3', '4', 'one' ]
+6rqlzs34cdlzmxone
+[ '6', '3', '4', '1' ]
+61
+[ 'two', '7' ]
+two7zpbgsxl
+[ '2', '7' ]
+27
+[ '5', 'two', '7', '5', 'five' ]
+lckblpljvv5two75fivegttgmvcpmlhltxz
+[ '5', '2', '7', '5', '5' ]
+55
+[ '5', '8', '1', 'three' ]
+bjfbxdpvnj581three
+[ '5', '8', '1', '3' ]
+53
+[ '1', 'seven', '4' ]
+1seven4
+[ '1', '7', '4' ]
+14
+[ '8', 'nine', '6', 'four', '4', '1' ]
+8ninezhzrgg6crlpggmtfour41lhjcqtblh
+[ '8', '9', '6', '4', '4', '1' ]
+81
+[ 'seven', 'eight', '8', 'seven', 'one', '7' ]
+seveneight8sevenoneshvkcdhgfmxhn7dzccsdfkcx
+[ '7', '8', '8', '7', '1', '7' ]
+77
+[ '7', '2' ]
+7zljpgl2
+[ '7', '2' ]
+72
+[ 'six', '1', 'two' ]
+six1two
+[ '6', '1', '2' ]
+62
+[ 'four', '8', 'three' ]
+fourztcnpn8bsbzfhdhgkjjsthree
+[ '4', '8', '3' ]
+43
+[ 'one', '9', '9', 'seven' ]
+onepthfrh9vcs9sevenhljhmprhlsjrr
+[ '1', '9', '9', '7' ]
+17
+[ 'four', '5' ]
+vlnpmqlpjfour5
+[ '4', '5' ]
+45
+[ 'two', '3', 'four', 'nine', 'three', 'four' ]
+two3qfourlqsninethreefour
+[ '2', '3', '4', '9', '3', '4' ]
+24
+[ 'seven', '7' ]
+hshdseven7
+[ '7', '7' ]
+77
+[
+  'eight', 'five',
+  '4',     'five',
+  '6',     'four',
+  '4',     'eight'
+]
+eightfive4five6four4flrzhrxzlreight
+[
+  '8', '5', '4',
+  '5', '6', '4',
+  '4', '8'
+]
+88
+[ 'five', '1', '8', '7' ]
+five187
+[ '5', '1', '8', '7' ]
+57
+[ 'seven', '2', '1' ]
+seven2xlbqkhtflqtsfhrf1vvnbt
+[ '7', '2', '1' ]
+71
+[ 'one', 'five', 'nine', 'three', '2', '6' ]
+onefiveninethree26
+[ '1', '5', '9', '3', '2', '6' ]
+16
+[ '2', '1', '9', 'eight', '6' ]
+2sck1n9eight6
+[ '2', '1', '9', '8', '6' ]
+26
+[ '6', 'six', 'six', '7', 'two', '9' ]
+6sixsix7two9xznczchmx
+[ '6', '6', '6', '7', '2', '9' ]
+69
+[ '2', '7', 'eight' ]
+27eight
+[ '2', '7', '8' ]
+28
+[ '7', 'six', '3' ]
+7six3
+[ '7', '6', '3' ]
+73
+[ 'three', 'seven', '5', '4', 'three' ]
+ztlbbncthreeseven54three
+[ '3', '7', '5', '4', '3' ]
+33
+[ 'eight', '8', '6', '5', '1' ]
+eight8r6mcrcgrz51
+[ '8', '8', '6', '5', '1' ]
+81
+[ 'eight', 'nine', '6', 'nine', '7', '5' ]
+eightnines6nine75
+[ '8', '9', '6', '9', '7', '5' ]
+85
+[
+  '8',     '3',
+  'five',  'two',
+  'five',  'four',
+  'eight', 'two'
+]
+nhx83fivetwofivefourrvxqhnpeightwoj
+[
+  '8', '3', '5',
+  '2', '5', '4',
+  '8', '2'
+]
+82
+[ '8', '5', '7', 'six', 'nine', '6' ]
+857sixzrnine6dlprzx
+[ '8', '5', '7', '6', '9', '6' ]
+86
+[
+  'eight', 'two',
+  '2',     '1',
+  '3',     '2',
+  'seven', '7',
+  'one',   'one'
+]
+lteightwo2132seven7oneone
+[
+  '8', '2', '2', '1',
+  '3', '2', '7', '7',
+  '1', '1'
+]
+81
+[ '1', '5', '1', '6', 'nine', 'seven', '5' ]
+1516ldxxftfnineseven5
+[
+  '1', '5', '1',
+  '6', '9', '7',
+  '5'
+]
+15
+[ '6', 'four', 'five', '3' ]
+6fourfivej3
+[ '6', '4', '5', '3' ]
+63
+[ '9', '9' ]
+sjmjp99
+[ '9', '9' ]
+99
+[ '5', '1' ]
+bprsznhxztpp51
+[ '5', '1' ]
+51
+[ 'five', 'two', '1', 'four' ]
+cmfivetwo1four
+[ '5', '2', '1', '4' ]
+54
+[ '6', '1', '5', 'one', 'seven' ]
+6mgcffzzspll15djsoneseven
+[ '6', '1', '5', '1', '7' ]
+67
+[ '9', 'four', '6' ]
+9qjcvfourqdtmhlqzfxfg6
+[ '9', '4', '6' ]
+96
+[
+  'six', '4',
+  '5',   'five',
+  'two', '3',
+  '4'
+]
+six45fivetwo3zkpxmxsgxtmg4
+[
+  '6', '4', '5',
+  '5', '2', '3',
+  '4'
+]
+64
+[ 'three', '1', '2', 'four', '7', '2' ]
+three12four72kvztxqdmfxhrxsp
+[ '3', '1', '2', '4', '7', '2' ]
+32
+[ 'three', 'nine', 'three', '9', '3' ]
+threeninebnzthreedfqvm93kqmxpsnmb
+[ '3', '9', '3', '9', '3' ]
+33
+[ '8', 'five', '9', '2' ]
+8nzfbcmghfive92
+[ '8', '5', '9', '2' ]
+82
+[ '9', '1', '4', 'six' ]
+914six
+[ '9', '1', '4', '6' ]
+96
+[ 'seven', 'five', '6' ]
+sevenfive6
+[ '7', '5', '6' ]
+76
+[ '3', 'five', '7', '8' ]
+3bxxccqzdjsfive78lhtpbl
+[ '3', '5', '7', '8' ]
+38
+[ '5', '5' ]
+5zdvjxsfvcptngh5
+[ '5', '5' ]
+55
+[ 'one', 'eight', '4', 'six', '1', '7' ]
+vboneight4six17
+[ '1', '8', '4', '6', '1', '7' ]
+17
+[ 'seven', '8', 'eight', '9', '3', 'nine' ]
+seven8eight9krfhll3lnine
+[ '7', '8', '8', '9', '3', '9' ]
+79
+[ '4', 'eight', 'one', 'six', 'eight' ]
+stv4eightonesixcfveight
+[ '4', '8', '1', '6', '8' ]
+48
+[ '9', '4', 'five' ]
+rnmjpszvx94fivefzsphkkftgxpsfhvthsbv
+[ '9', '4', '5' ]
+95
+[ 'two', '7' ]
+zmntmkcbgrtwonspdq7
+[ '2', '7' ]
+27
+[ '5', '8', 'six' ]
+5ntxnjclc8six
+[ '5', '8', '6' ]
+56
+[ '8', 'six', '5', '8', 'five' ]
+8six58five
+[ '8', '6', '5', '8', '5' ]
+85
+[ '6', 'nine', 'six', 'eight', 'three' ]
+6ninesixeightqjnjfbbtlmcqvthree
+[ '6', '9', '6', '8', '3' ]
+63
+[ '9', 'six', '7' ]
+hgjh9vhtdtcgkzpltnpxfqhsix7kq
+[ '9', '6', '7' ]
+97
+[ '6', '4', 'seven', '9' ]
+64sevenc9
+[ '6', '4', '7', '9' ]
+69
+[ '9', '6', '6', '2', 'nine', 'nine' ]
+96z62ninenine
+[ '9', '6', '6', '2', '9', '9' ]
+99
+[ 'seven', 'seven', '3', '8' ]
+sevenseven38
+[ '7', '7', '3', '8' ]
+78
+[ '9' ]
+ckk9zdnkjvskct
+[ '9' ]
+99
+[ '8', '7' ]
+8flk7
+[ '8', '7' ]
+87
+[ '8', 'eight' ]
+8eighthqntfrh
+[ '8', '8' ]
+88
+[ '8', '4', '9', '6' ]
+8cthrxbjlxbnqvqc496htsltqpqktqnz
+[ '8', '4', '9', '6' ]
+86
+[ '3', '1', 'three', 'two', '5' ]
+31threetwo5
+[ '3', '1', '3', '2', '5' ]
+35
+[ 'two', 'four', '5' ]
+twofour5
+[ '2', '4', '5' ]
+25
+[ '3', 'nine' ]
+rlggcjdthj3nine
+[ '3', '9' ]
+39
+[ '1', '8', 'five', '4' ]
+18five4
+[ '1', '8', '5', '4' ]
+14
+[ 'seven', 'seven', '1', 'two', 'seven' ]
+sevenhgncfjnseven1twoseven
+[ '7', '7', '1', '2', '7' ]
+77
+[ '3', '5', '1', '8' ]
+kshqgsm3pcd518
+[ '3', '5', '1', '8' ]
+38
+[ '8', 'one', 'nine', 'five', 'two' ]
+8qrpbpbbmzmbctsmvtddoneninefivetwofttd
+[ '8', '1', '9', '5', '2' ]
+82
+[
+  'five', 'two',
+  '1',    '3',
+  '3',    'two',
+  '5',    'seven'
+]
+fivetwoqvtscrs133two5seven
+[
+  '5', '2', '1',
+  '3', '3', '2',
+  '5', '7'
+]
+57
+[ '6', 'nine', 'two', 'five', 'nine', '3' ]
+6ninedcsrftdtwofivexzmpxdccnine3
+[ '6', '9', '2', '5', '9', '3' ]
+63
+[ 'three', 'seven', '7', '3' ]
+threeseven73
+[ '3', '7', '7', '3' ]
+33
+[ '3' ]
+pppkjkgt3
+[ '3' ]
+33
+[ 'seven', '2', 'six', '1', '8', '9' ]
+seven2six1ctmmjvdgj8h9
+[ '7', '2', '6', '1', '8', '9' ]
+79
+[ '3', 'five' ]
+xkpk3fivemgmrfph
+[ '3', '5' ]
+35
+[ 'five', 'six', 'nine', '6', 'one' ]
+pppgfivesixnineqxs6onebgsplgfhqp
+[ '5', '6', '9', '6', '1' ]
+51
+[ '1', '5', 'three' ]
+cvjq15threesqqtpczr
+[ '1', '5', '3' ]
+13
+[ 'three', '9', '5' ]
+three95
+[ '3', '9', '5' ]
+35
+[ 'two', 'three', '7', '6', '7' ]
+twoldjbdxnqncntpphxshbthree767kfqbsqhlkg
+[ '2', '3', '7', '6', '7' ]
+27
+[ '9', 'two', '3', '7' ]
+9lfhbgmcqnhhlvvpvdtwo37
+[ '9', '2', '3', '7' ]
+97
+[ '7' ]
+v7gj
+[ '7' ]
+77
+[ '2', '3', '8' ]
+23fvgbbdjgst8
+[ '2', '3', '8' ]
+28
+[ 'six', '3' ]
+six3frmpq
+[ '6', '3' ]
+63
+[ 'two', '6', '8' ]
+zrggqtwo6sqr8
+[ '2', '6', '8' ]
+28
+[ 'five', '9', '7' ]
+fiverdrxxtjlhzn97fxsqpxf
+[ '5', '9', '7' ]
+57
+[ 'seven', '2', '3', 'one', '3', '1', '2' ]
+sevenlpb2sj3one312
+[
+  '7', '2', '3',
+  '1', '3', '1',
+  '2'
+]
+72
+[
+  'four', '6',
+  'six',  '9',
+  'four', 'six',
+  '7'
+]
+four6six9fourjbsix7fnr
+[
+  '4', '6', '6',
+  '9', '4', '6',
+  '7'
+]
+47
+[ 'nine', '8', 'three' ]
+lpbgnkhkkbninec8three
+[ '9', '8', '3' ]
+93
+[ 'four', '2' ]
+spvkzsthfour2
+[ '4', '2' ]
+42
+[ '3', 'nine', 'five', '9' ]
+ljbrlhtkxfkskvdbgxqmmjn3nineqmqtffkfive9
+[ '3', '9', '5', '9' ]
+39
+[ '1', 'five', 'nine', '1' ]
+h1jmxtlfivenine1djqrsnpqccvzmdhsmxnqrjlgdlnj
+[ '1', '5', '9', '1' ]
+11
+[ '8', 'three', 'seven' ]
+8threeseven
+[ '8', '3', '7' ]
+87
+[
+  '1',    'one',
+  'five', '6',
+  'one',  '7',
+  '1',    'five'
+]
+1onefive6one71five
+[
+  '1', '1', '5',
+  '6', '1', '7',
+  '1', '5'
+]
+15
+[ 'seven', '8', '6', '6' ]
+qbjqnfsevenmls8gdnr66
+[ '7', '8', '6', '6' ]
+76
+[ 'six', '7', '6' ]
+jgpzsix76pxldgpcvdcpzn
+[ '6', '7', '6' ]
+66
+[ '8' ]
+8nkdjhgrn
+[ '8' ]
+88
+[ 'three', 'eight', 'eight', '7', '9' ]
+threeeighteight79
+[ '3', '8', '8', '7', '9' ]
+39
+[ '9', 'nine', 'seven' ]
+9ninelzzrjqpkseven
+[ '9', '9', '7' ]
+97
+[ '7', '5', 'six' ]
+75six
+[ '7', '5', '6' ]
+76
+[ 'three', '3', 'three' ]
+threebpfsn3three
+[ '3', '3', '3' ]
+33
+[ '4', 'two', 'one' ]
+4twonel
+[ '4', '2', '1' ]
+41
+[ '1', '4', '2', 'four', 'four', 'seven' ]
+pjvmb14tzbz2tpfourfourseven
+[ '1', '4', '2', '4', '4', '7' ]
+17
+[ 'four', '1', 'six' ]
+zslfour1pkklkrsixncvjtkn
+[ '4', '1', '6' ]
+46
+[ 'one', 'eight', '3' ]
+honeight3
+[ '1', '8', '3' ]
+13
+[ 'six', '7' ]
+six7stfffkjg
+[ '6', '7' ]
+67
+[ '4', '2', 'four', 'three' ]
+42fourktbdmzstcgmdtcgbhffthree
+[ '4', '2', '4', '3' ]
+43
+[ 'two', '2', '7' ]
+two27
+[ '2', '2', '7' ]
+27
+[ '6', 'six', '1' ]
+ghvrgzj6six1
+[ '6', '6', '1' ]
+61
+[ '3', '3' ]
+vxjqk3xhlr3
+[ '3', '3' ]
+33
+[ 'three', '3', 'eight', '8', 'nine' ]
+threetgzkjslbdrdxgfzsd3lcheight8ninebxhzf
+[ '3', '3', '8', '8', '9' ]
+39
+[ 'six', 'five', '7', 'one' ]
+sixfive7one
+[ '6', '5', '7', '1' ]
+61
+[ '5' ]
+f5
+[ '5' ]
+55
+[ '6', 'seven', '9', 'three' ]
+qq6lkvlmrnseven9three
+[ '6', '7', '9', '3' ]
+63
+[
+  '8',     'four',
+  'nine',  '6',
+  '4',     'six',
+  'seven'
+]
+8fournine64rzdnnhgdsixseven
+[
+  '8', '4', '9',
+  '6', '4', '6',
+  '7'
+]
+87
+[ '4', 'five', '6' ]
+4vttbdfivesgdnjsvsxt6
+[ '4', '5', '6' ]
+46
+[ '7', '6', '5' ]
+765
+[ '7', '6', '5' ]
+75
+[ '6' ]
+6czbdlfcfkvplmcb
+[ '6' ]
+66
+[ '7', 'one', '5', '2' ]
+7one52
+[ '7', '1', '5', '2' ]
+72
+[ 'eight', '6', 'eight', 'one' ]
+eight6neightone
+[ '8', '6', '8', '1' ]
+81
+[ 'six', '5' ]
+six5lttjtcbxmxnz
+[ '6', '5' ]
+65
+[ 'three', 'two', '6', '9', '2', 'eight' ]
+threetwo692eight
+[ '3', '2', '6', '9', '2', '8' ]
+38
+[ '8', 'four' ]
+dhcztvmmlllg8four
+[ '8', '4' ]
+84
+[ '9', '6', '3', '5' ]
+btdjgnh9vjvlqfkznqr635hhcr
+[ '9', '6', '3', '5' ]
+95
+[ '2', 'four', 'nine' ]
+2jvbxcfournine
+[ '2', '4', '9' ]
+29
+[
+  '4',     'six',
+  'one',   '2',
+  '9',     '9',
+  'seven', 'four'
+]
+4sixonemp299sevenfour
+[
+  '4', '6', '1',
+  '2', '9', '9',
+  '7', '4'
+]
+44
+[ '1', 'six', 'eight', '7', 'nine', '9' ]
+1sixmdqkzqtgzeight7nine9
+[ '1', '6', '8', '7', '9', '9' ]
+19
+[ '4', 'seven' ]
+4nnhfkrlmfpseven
+[ '4', '7' ]
+47
+[ 'four', 'two', '5' ]
+blhvfourtwo5vrlqtqrlpxgd
+[ '4', '2', '5' ]
+45
+[ '4', 'eight', 'five' ]
+kptg4eightvglvjdczfive
+[ '4', '8', '5' ]
+45
+[ '5', '5', '9', '9', 'seven', 'eight', '6' ]
+5599msgkplgqfnzseveneight6
+[
+  '5', '5', '9',
+  '9', '7', '8',
+  '6'
+]
+56
+[ '3', 'two' ]
+3tnfvgftsnbzksnrhtrtlbfxcfqfjgnndlmfvkqvhcmgdtwo
+[ '3', '2' ]
+32
+[ 'five', '3', '1', '9' ]
+txvjfglxtbfive3zpx19
+[ '5', '3', '1', '9' ]
+59
+[ 'six', '9', 'four', '5' ]
+six9four5
+[ '6', '9', '4', '5' ]
+65
+[ '5', 'four', 'seven' ]
+5fourseven
+[ '5', '4', '7' ]
+57
+[ 'seven', '7', '3', 'seven' ]
+fsevenmnfskhckvfszs73rnjqjhsseven
+[ '7', '7', '3', '7' ]
+77
+[ '9', '5', 'five' ]
+95knstccbfivepgpt
+[ '9', '5', '5' ]
+95
+[ '1' ]
+kmtjfxtztqnrngxxgcgh1kdxpdjzspz
+[ '1' ]
+11
+[ 'two', '2', 'four', 'three', '9', '9' ]
+two2rtcmvpbzsmfourchpqthree99
+[ '2', '2', '4', '3', '9', '9' ]
+29
+[ 'eight', 'eight', 'one', '8' ]
+fzteighteightlvnoneslhjmcrqrg8pzvszdxzbp
+[ '8', '8', '1', '8' ]
+88
+[ 'one', '4', '9', '3', 'eight', 'eight' ]
+one49szrxcjvtt3eighteight
+[ '1', '4', '9', '3', '8', '8' ]
+18
+[ '8', 'three', 'nine', '7' ]
+8nqbmcsthreeninexf7
+[ '8', '3', '9', '7' ]
+87
+[ '8', '4' ]
+fvvzvpmsgrrnhjksf8l4
+[ '8', '4' ]
+84
+[ '7' ]
+7msxhtdk
+[ '7' ]
+77
+[
+  'two',   'one',
+  'two',   'six',
+  'three', 'nine',
+  '8',     '6',
+  '9'
+]
+jgtwonetwosixthreervlmxlnine869lbqzxpqqn
+[
+  '2', '1', '2',
+  '6', '3', '9',
+  '8', '6', '9'
+]
+29
+[ '6', '9', 'nine', 'six' ]
+nvdn6bdg9ninesix
+[ '6', '9', '9', '6' ]
+66
+[ '8', '2' ]
+82rxtf
+[ '8', '2' ]
+82
+[ '9', 'seven', '7', 'one' ]
+9tdqsdppseven7one
+[ '9', '7', '7', '1' ]
+91
+[ 'two', '8', 'one', '6', '7', '1' ]
+tlbbxvtwo8one671bhghlhdpfh
+[ '2', '8', '1', '6', '7', '1' ]
+21
+[ '3', 'one', 'seven' ]
+3onethhhlmgfhseven
+[ '3', '1', '7' ]
+37
+[ '2', 'six' ]
+n2six
+[ '2', '6' ]
+26
+[ '5', '3', 'eight' ]
+53eight
+[ '5', '3', '8' ]
+58
+[ 'one', '5', 'five', '8', '5' ]
+one5five85
+[ '1', '5', '5', '8', '5' ]
+15
+[
+  'three', '5',
+  '3',     '7',
+  '5',     'nine',
+  '5',     '5'
+]
+three5375nine55
+[
+  '3', '5', '3',
+  '7', '5', '9',
+  '5', '5'
+]
+35
+[ '3', '1' ]
+fhvxvtjcnn3stcjhsdjtc1hhmk
+[ '3', '1' ]
+31
+[ 'six', '1', '9', '4' ]
+six1jmgzrklbxrmzshpfgnv94hzfd
+[ '6', '1', '9', '4' ]
+64
+[ '7', '3', '7', 'six' ]
+737six
+[ '7', '3', '7', '6' ]
+76
+[ '2', '5', 'nine' ]
+25nine
+[ '2', '5', '9' ]
+29
+[ 'five', '1', '1', '8', '8', '8' ]
+fivevnpmlzvvp118lbv8xzplfttx8
+[ '5', '1', '1', '8', '8', '8' ]
+58
+[
+  'nine',  'three',
+  'seven', 'seven',
+  'six',   '4',
+  'three', '2'
+]
+ninethreesevensevensix4three2
+[
+  '9', '3', '7',
+  '7', '6', '4',
+  '3', '2'
+]
+92
+[ '5', '1' ]
+xkgtqqlcdr51bgtx
+[ '5', '1' ]
+51
+[ 'six', '5', 'one', '3', 'three' ]
+sixpddqmbb5onehbmjfbpqx3threechgvdkghhjhnxl
+[ '6', '5', '1', '3', '3' ]
+63
+[ '7', 'eight', '9', '1' ]
+7eight9sdcq1
+[ '7', '8', '9', '1' ]
+71
+[ '9', 'nine' ]
+9ninejbcxzp
+[ '9', '9' ]
+99
+[ '3', 'two', '2', 'six', 'one' ]
+3two2sixone
+[ '3', '2', '2', '6', '1' ]
+31
+[ 'seven', '8', 'five', 'one', '1', '4', '1' ]
+seven8fiveonecrcqrglql141
+[
+  '7', '8', '5',
+  '1', '1', '4',
+  '1'
+]
+71
+[ '4', 'nine', '3', 'nine', 'seven' ]
+4nine3cllndctlninecrdxsevenbhbqsgtjnchkmknpdht
+[ '4', '9', '3', '9', '7' ]
+47
+[ 'seven', 'five', '3', 'three', 'six' ]
+sevenzfbnvgfive3threesix
+[ '7', '5', '3', '3', '6' ]
+76
+[ 'four', '8', 'nine' ]
+tvvjkskxgvfourxhccmmpxqx8mtxmfxmrcnine
+[ '4', '8', '9' ]
+49
+[ '2' ]
+ptnnhktxxn2qrjvmddszgcftlpdfvxcpkm
+[ '2' ]
+22
+[ 'one', 'eight', '8', '8' ]
+mboneight8lbjvvfzrl8qgqf
+[ '1', '8', '8', '8' ]
+18
+[ '7', 'two' ]
+7twomjfhzl
+[ '7', '2' ]
+72
+[
+  'seven', '2',
+  'nine',  'three',
+  '7',     'seven',
+  '2'
+]
+sevendrdvmx2ninethree7seven2
+[
+  '7', '2', '9',
+  '3', '7', '7',
+  '2'
+]
+72
+[ 'one', 'eight', '6', 'eight', '5' ]
+zoneight6eightnldnvhqpbd5
+[ '1', '8', '6', '8', '5' ]
+15
+[ '2', '9' ]
+29c
+[ '2', '9' ]
+29
+[ '2', 'nine', '5', '7', '3', 'five' ]
+kzfkvqqs2ninesmlcrg573five
+[ '2', '9', '5', '7', '3', '5' ]
+25
+[ '2', '4', 'six', '6' ]
+vxcgdz24ljhrhgsix6
+[ '2', '4', '6', '6' ]
+26
+[ 'one', '3', 'nine', '5', '3', '7', 'seven' ]
+one3nine53xtr7seven
+[
+  '1', '3', '9',
+  '5', '3', '7',
+  '7'
+]
+17
+[
+  'eight', 'two',
+  'eight', '2',
+  'six',   '6',
+  'nine'
+]
+djdeightwoeightc2six6nine
+[
+  '8', '2', '8',
+  '2', '6', '6',
+  '9'
+]
+89
+[
+  'eight', '2',
+  '7',     '2',
+  '7',     'seven',
+  'three', 'one'
+]
+eight2727seventhreeone
+[
+  '8', '2', '7',
+  '2', '7', '7',
+  '3', '1'
+]
+81
+[ '3', '7' ]
+3gdtc7llsdlftdrx
+[ '3', '7' ]
+37
+[ '5', '8', '1', '1', '5', '7' ]
+581vjcbpmrzlp157jjcmlrzhr
+[ '5', '8', '1', '1', '5', '7' ]
+57
+[ '7', 'eight', 'six', '8', 'four', '6', '9' ]
+7eightsix8fourgg69
+[
+  '7', '8', '6',
+  '8', '4', '6',
+  '9'
+]
+79
+[ '3', '8', 'two', 'one' ]
+zsh38twocvklone
+[ '3', '8', '2', '1' ]
+31
+[ 'three', '6' ]
+three6np
+[ '3', '6' ]
+36
+[
+  '9',   '7', '7',
+  'one', '7', '1',
+  '4',   '9'
+]
+9tvxqtbpf77one7149
+[
+  '9', '7', '7',
+  '1', '7', '1',
+  '4', '9'
+]
+99
+[ '7', 'three', '3' ]
+7three3gqfpfqmhsfxqbqbnv
+[ '7', '3', '3' ]
+73
+[ '8' ]
+8rhflhmhtbm
+[ '8' ]
+88
+[
+  '2',     '1',
+  '7',     'one',
+  'three', 'nine',
+  '9',     '8'
+]
+217onethreelgfmpdscnine98
+[
+  '2', '1', '7',
+  '1', '3', '9',
+  '9', '8'
+]
+28
+[ 'three', '3', '6', 'seven', '7' ]
+three3stnst6xqqxvxzkfssevenbzktd7
+[ '3', '3', '6', '7', '7' ]
+37
+[ '4', '6' ]
+46ttbnzlfnsjbc
+[ '4', '6' ]
+46
+[
+  'three', '5',
+  '8',     'four',
+  '8',     'seven',
+  'three'
+]
+bsqxtvhgthree58four8seventhree
+[
+  '3', '5', '8',
+  '4', '8', '7',
+  '3'
+]
+33
+[
+  'two',   'one',
+  'two',   'eight',
+  'four',  '5',
+  'eight', 'eight',
+  '3'
+]
+ccntwonedsjvftmftwoeightfourbxxt5eighteight3
+[
+  '2', '1', '2',
+  '8', '4', '5',
+  '8', '8', '3'
+]
+23
+[ 'three', 'nine', 'four', 'one', '1', '3' ]
+threeninembphrpfourone13hnjvn
+[ '3', '9', '4', '1', '1', '3' ]
+33
+[ '2', 'one', '6', 'two', 'eight' ]
+bkm2onez6xxdjvnxvxjrtwoeight
+[ '2', '1', '6', '2', '8' ]
+28
+[ 'one', 'eight', '8' ]
+jztoneight8gsmnjcfvk
+[ '1', '8', '8' ]
+18
+[
+  'six',  '3',
+  'four', 'nine',
+  'two',  '6',
+  '2'
+]
+six3fourninetwo62
+[
+  '6', '3', '4',
+  '9', '2', '6',
+  '2'
+]
+62
+[ '9', '9', 'two', 'one' ]
+99dndgmkcctwoneftn
+[ '9', '9', '2', '1' ]
+91
+[ 'eight', '7', 'five', 'nine', '4' ]
+eight7pkzcxqhzfiveppvnineksjfhhqgm4
+[ '8', '7', '5', '9', '4' ]
+84
+[ '2', 'two', '5' ]
+2ngrttwozgdsrdsfq5ftgsq
+[ '2', '2', '5' ]
+25
+[
+  'four',  '5',
+  '9',     '9',
+  '7',     'eight',
+  'seven'
+]
+fourdnmxjn5997eightkxkkpseven
+[
+  '4', '5', '9',
+  '9', '7', '8',
+  '7'
+]
+47
+[ '9', '8', 'one' ]
+rxnrnqvm98zjxxmkflone
+[ '9', '8', '1' ]
+91
+[ 'three', '1', 'two', 'one' ]
+three1dkmtwoone
+[ '3', '1', '2', '1' ]
+31
+[ '6', '8', 'five', '4' ]
+6tttkrtnhgfzx8five4shlcvhr
+[ '6', '8', '5', '4' ]
+64
+[ '8', '2', '5', '4' ]
+nffggbxmhkpcppm8kjhktmdvlkkmrffdng254
+[ '8', '2', '5', '4' ]
+84
+[ '4', '4', '5' ]
+mbjm445
+[ '4', '4', '5' ]
+45
+[ '6', 'four', '7' ]
+6nfqxlhklrmfour7
+[ '6', '4', '7' ]
+67
+[ 'two', 'six', 'eight', '8', 'one' ]
+twosixsqtsfcleight8onefdsjxvbgt
+[ '2', '6', '8', '8', '1' ]
+21
+[ '9', 'nine' ]
+9bkkrznine
+[ '9', '9' ]
+99
+[ 'five', '1' ]
+fivedzpnp1
+[ '5', '1' ]
+51
+[ '1', 'six', 'seven', '2' ]
+cctxzzjbhgttmszdph1sixqseven2
+[ '1', '6', '7', '2' ]
+12
+[ '1', '2', 'eight' ]
+1qnfxpzfg2feight
+[ '1', '2', '8' ]
+18
+[ '5', '3', 'six', '2', '3' ]
+5gdj3shgqvjdsix23gqp
+[ '5', '3', '6', '2', '3' ]
+53
+[ 'three', '4', 'one' ]
+xdgxsrshddmzmhkhznsdthree4one
+[ '3', '4', '1' ]
+31
+[
+  'six',  'six',
+  'nine', 'one',
+  '7',    'three',
+  '2'
+]
+gmtsixsixninexxsxone7three2
+[
+  '6', '6', '9',
+  '1', '7', '3',
+  '2'
+]
+62
+[ '1' ]
+1rttbtsccr
+[ '1' ]
+11
+[ 'three', 'seven', '1', 'five', '6' ]
+threeseven1fdzqvmbnsfive6
+[ '3', '7', '1', '5', '6' ]
+36
+[
+  'six', '4',
+  '1',   '3',
+  '8',   '5',
+  'one'
+]
+nxqxvhsix41385none
+[
+  '6', '4', '1',
+  '3', '8', '5',
+  '1'
+]
+61
+[
+  '4',    'six',
+  'five', '5',
+  'five', '6',
+  'six'
+]
+sxgmkrzmbvn4sixfive5five6six
+[
+  '4', '6', '5',
+  '5', '5', '6',
+  '6'
+]
+46
+[ 'three', '6', 'three', 'seven', '3', 'two' ]
+three6threepdjsseven3kgxtwo
+[ '3', '6', '3', '7', '3', '2' ]
+32
+[ '8', 'three' ]
+8grzmhsmkthree
+[ '8', '3' ]
+83
+[ 'seven', '1' ]
+seven1htzbglcdfbcg
+[ '7', '1' ]
+71
+[ '5', '1', '5', 'one', 'five', '6' ]
+5nsjsnrscz1zhrvjmtg5onefive6
+[ '5', '1', '5', '1', '5', '6' ]
+56
+[ 'two', '4', 'one' ]
+two4one
+[ '2', '4', '1' ]
+21
+[ '4', '1', 'four', '3', 'three' ]
+dzl41four3threehbbqnkhn
+[ '4', '1', '4', '3', '3' ]
+43
+[ 'one', '8', '6' ]
+onebsm86
+[ '1', '8', '6' ]
+16
+[ '2' ]
+xh2
+[ '2' ]
+22
+[ 'eight', 'five', '2', '1', 'seven', 'seven' ]
+eightqmdbfiveqv21sevenseven
+[ '8', '5', '2', '1', '7', '7' ]
+87
+[
+  '5',    'one',
+  'four', '3',
+  'two',  'one',
+  'two'
+]
+5onefour3twolrtmmonetwo
+[
+  '5', '1', '4',
+  '3', '2', '1',
+  '2'
+]
+52
+[ '3', '2', 'seven' ]
+32seven
+[ '3', '2', '7' ]
+37
+[ '3', 'seven', 'nine', 'nine', '5', 'two' ]
+vpcncrhjxgcs3sevenninenine5two
+[ '3', '7', '9', '9', '5', '2' ]
+32
+[ 'one', 'eight', '9' ]
+mponeight9glbvgrff
+[ '1', '8', '9' ]
+19
+[ 'eight', '5', '7' ]
+zgzzzpfffneighttdcplkbfr57
+[ '8', '5', '7' ]
+87
+[ '7', 'nine', 'nine', 'eight' ]
+7nineninemfneight
+[ '7', '9', '9', '8' ]
+78
+[ '3', 'five', '8' ]
+3ddrsxrmbzsmxkdfive8
+[ '3', '5', '8' ]
+38
+[ 'two', '3' ]
+pnxtxmfrpmtwo3
+[ '2', '3' ]
+23
+[ 'one', '5', '5' ]
+onerktgpv55
+[ '1', '5', '5' ]
+15
+[ '7', '9', 'two', 'six', '9', '8' ]
+79twosixhnnrqklz98
+[ '7', '9', '2', '6', '9', '8' ]
+78
+[ '5', '9', '1', '5' ]
+5915vnrpsj
+[ '5', '9', '1', '5' ]
+55
+[ '7', 'eight' ]
+rfg7szlxneight
+[ '7', '8' ]
+78
+[ 'nine', 'eight', 'five', '5' ]
+ninejhnzpnhkrlqceightfive5
+[ '9', '8', '5', '5' ]
+95
+[ '6', 'two', '3', '5' ]
+tzcgzzx6two3qfk5dffgnp
+[ '6', '2', '3', '5' ]
+65
+[
+  'eight', 'two',
+  'three', '5',
+  'four',  'three',
+  'nine'
+]
+ceightwothreerqnfl5fourdfbrthreedntdchgnine
+[
+  '8', '2', '3',
+  '5', '4', '3',
+  '9'
+]
+89
+[ 'six', '3', 'six', 'three', 'seven', '1' ]
+sixnfmdk3sixthreekgvmrzseven1
+[ '6', '3', '6', '3', '7', '1' ]
+61
+[ 'one', 'two', '1', 'three', 'eight' ]
+mcdbsqnrzconetwo1dthreeeightjfjdblk
+[ '1', '2', '1', '3', '8' ]
+18
+[ '4', '8', 'three' ]
+48threejtdnq
+[ '4', '8', '3' ]
+43
+[ 'three', '9' ]
+threerxnrgzd9
+[ '3', '9' ]
+39
+[ 'eight', 'two', '4' ]
+vmzgfplpveightfnctwo4pptlb
+[ '8', '2', '4' ]
+84
+[ 'nine', 'six', '1', 'three', '8' ]
+ninesixqtbqgjvqv1three8
+[ '9', '6', '1', '3', '8' ]
+98
+[ '1', 'one', 'five' ]
+cfnlshzvczgvm1onefive
+[ '1', '1', '5' ]
+15
+[ '5', 'two', '8', 'three', '1' ]
+gsskzxkgrbzx5pggzmsfhtwotrsvmttzdc8three1
+[ '5', '2', '8', '3', '1' ]
+51
+[ '3', 'seven', '7' ]
+3sevenfrc7vzg
+[ '3', '7', '7' ]
+37
+[ '7', '2', '8' ]
+dcmxmg7d2jlbtfhkr8
+[ '7', '2', '8' ]
+78
+[ '6', '2', 'eight', '9' ]
+62nzzeight9txrzlm
+[ '6', '2', '8', '9' ]
+69
+[ '9', 'six', 'six', 'three', 'three' ]
+9pjllhmfgkvssixsixthreeqmzthree
+[ '9', '6', '6', '3', '3' ]
+93
+[ '2', '8' ]
+ctjksjbbdn28
+[ '2', '8' ]
+28
+[
+  '3',    '9',
+  'five', 'five',
+  '5',    '9',
+  'six'
+]
+39fivefive5cnqjtr9vpvsix
+[
+  '3', '9', '5',
+  '5', '5', '9',
+  '6'
+]
+36
+[ 'four', 'one', '7', 'two' ]
+jlbjfouronent7mlpqpcvqcmhfhvqjqcmtwo
+[ '4', '1', '7', '2' ]
+42
+[ '2', '6', 'nine' ]
+2kpvxg6nine
+[ '2', '6', '9' ]
+29
+[ 'seven', '4', 'three', '8' ]
+seven4mlsbhzcmjfthree8
+[ '7', '4', '3', '8' ]
+78
+[ '1', '3', 'four' ]
+1khfjhp3fourrh
+[ '1', '3', '4' ]
+14
+[ 'nine', 'six', '8', 'two', 'eight', 'two' ]
+ninesixpfrjvfm8kkjsrhttxsslhtwoeightwovvg
+[ '9', '6', '8', '2', '8', '2' ]
+92
+[ 'four', '2', 'nine' ]
+four2nine
+[ '4', '2', '9' ]
+49
+[
+  'four',  '4',
+  '5',     'nine',
+  'eight', '5',
+  'eight'
+]
+fourlgcbfptfz45nineeight5eightkqtbt
+[
+  '4', '4', '5',
+  '9', '8', '5',
+  '8'
+]
+48
+[ '5', 'six', '7' ]
+5sixxqggppnl7
+[ '5', '6', '7' ]
+57
+[ '5', '1', 'five', '1' ]
+51zvfive1v
+[ '5', '1', '5', '1' ]
+51
+[
+  'five', 'one',
+  '5',    'seven',
+  '7',    'four',
+  '3',    'five'
+]
+fiveoneqqk5seven7four3five
+[
+  '5', '1', '5',
+  '7', '7', '4',
+  '3', '5'
+]
+55
+[ 'two', '9', 'eight', '8' ]
+kqlkrntrcfrhtwo9scczeight8dbqmfhstnzq
+[ '2', '9', '8', '8' ]
+28
+[ 'eight', 'one', '6', '1' ]
+ghdjlnzmskmvjeightnzmpbjgone61
+[ '8', '1', '6', '1' ]
+81
+[
+  'three', '8',
+  'five',  '3',
+  'four',  '4',
+  '8',     'eight'
+]
+three8jrhhmfnfive3four48eight
+[
+  '3', '8', '5',
+  '3', '4', '4',
+  '8', '8'
+]
+38
+[ 'nine', '8', '7', 'nine', '8' ]
+nine87ninekfzh8
+[ '9', '8', '7', '9', '8' ]
+98
+[ '3', '2', '9', 'nine' ]
+329nine
+[ '3', '2', '9', '9' ]
+39
+[ 'two', '3', '2', '7', '1' ]
+jgtwo3xvlkbvhrss27vltrghkljq1rkzkls
+[ '2', '3', '2', '7', '1' ]
+21
+[ 'four', 'two', '2', '7', '4' ]
+vrcfourtwoqlgcrxf274
+[ '4', '2', '2', '7', '4' ]
+44
+[ 'six', 'seven', 'six', '1', '5' ]
+sxzkxpvnhsixsevensixtgptbrpnfthhnj15
+[ '6', '7', '6', '1', '5' ]
+65
+[ '5', '1', 'one' ]
+5rqqntzlq1one
+[ '5', '1', '1' ]
+51
+[ '1', 'nine', '7', '6', '2', 'one' ]
+1pnine762fhone
+[ '1', '9', '7', '6', '2', '1' ]
+11
+[ 'three', '5', 'eight', '4', 'two', '8' ]
+ttghtthree5eightbqm4two8
+[ '3', '5', '8', '4', '2', '8' ]
+38
+[ '2', 'two', '6', 'one', 'one' ]
+2pmtldtwo6onedtsklbcbjhone
+[ '2', '2', '6', '1', '1' ]
+21
+[ 'four', 'seven', '5' ]
+fourseventhtdcsmc5
+[ '4', '7', '5' ]
+45
+[ '7', '5', 'five', '9', '9', '4' ]
+xqp75five99g4
+[ '7', '5', '5', '9', '9', '4' ]
+74
+[ '4', '2', '1', '2', 'seven', '3' ]
+mrjpmm4crgk212seven3
+[ '4', '2', '1', '2', '7', '3' ]
+43
+[ '1' ]
+qjpdjb1
+[ '1' ]
+11
+[ 'two', '4', '4', 'seven', '3', '5' ]
+two44sevenqtcdhxjp35xxx
+[ '2', '4', '4', '7', '3', '5' ]
+25
+[ 'seven', '7', 'nine', 'three' ]
+sevenvtd7ttvmsninergrgdxbdqcthree
+[ '7', '7', '9', '3' ]
+73
+[ 'three', 'four', '4' ]
+pgkqpltdzcthreemzrsrqjfourcrghhsfsjcqtmvxq4
+[ '3', '4', '4' ]
+34
+[ 'three', 'one', '1', 'seven', '2' ]
+threeonexfrdvr1nblctsevendqmmzdr2
+[ '3', '1', '1', '7', '2' ]
+32
+[ '8', 'three', '2', 'six', '8' ]
+8three2six8
+[ '8', '3', '2', '6', '8' ]
+88
+[ '5', '9', 'two', 'four', '2' ]
+59twozjfour2
+[ '5', '9', '2', '4', '2' ]
+52
+[
+  'four', '2',
+  '9',    'four',
+  '5',    'six',
+  '2'
+]
+qgtjgmrvfcffour29four5six2
+[
+  '4', '2', '9',
+  '4', '5', '6',
+  '2'
+]
+42
+[ 'nine', '3', 'nine', '5', '4', 'five' ]
+zzhnine3nineknzkvmbxvm54fivelrrgc
+[ '9', '3', '9', '5', '4', '5' ]
+95
+[ 'one', 'six', '3', 'three' ]
+fonesix3three
+[ '1', '6', '3', '3' ]
+13
+[ 'seven', '6', 'five', 'one', 'seven' ]
+seven6fivetlhhonetdzrkhjzqzseven
+[ '7', '6', '5', '1', '7' ]
+77
+[ '1', 'seven', '9', 'eight', '5' ]
+1ldxvjseven9eight5
+[ '1', '7', '9', '8', '5' ]
+15
+[ 'seven', '2' ]
+seven2bcbktzsjpp
+[ '7', '2' ]
+72
+[
+  '2',   '5',
+  '5',   'two',
+  '7',   '5',
+  'six'
+]
+2kxqxflk55two7cflfdfvsx5six
+[
+  '2', '5', '5',
+  '2', '7', '5',
+  '6'
+]
+26
+[ '5' ]
+5lvhclqxtf
+[ '5' ]
+55
+[ 'one', '7', '6', '8', 'two' ]
+one768two
+[ '1', '7', '6', '8', '2' ]
+12
+[ '8' ]
+vfh8
+[ '8' ]
+88
+[ 'nine', 'seven', '3', '2', '6', 'two' ]
+nineseven3xpc2jkvmgkqc6two
+[ '9', '7', '3', '2', '6', '2' ]
+92
+[ '9', '4', '7', 'two', '9', '6' ]
+vvcvzfb947twortlnl96
+[ '9', '4', '7', '2', '9', '6' ]
+96
+[ 'seven', '5', '8', 'nine', '4', 'nine', '8' ]
+seven58nine4nine8tbtjqfpgp
+[
+  '7', '5', '8',
+  '9', '4', '9',
+  '8'
+]
+78
+[ '7', 'one', 'five', '4', 'two', '3' ]
+7onefive4lbhslhdpsbtwo3vm
+[ '7', '1', '5', '4', '2', '3' ]
+73
+[
+  'four',  'six',
+  'six',   '3',
+  '9',     '7',
+  '1',     'five',
+  'eight'
+]
+foursixsix3971fiveeight
+[
+  '4', '6', '6',
+  '3', '9', '7',
+  '1', '5', '8'
+]
+48
+[ '1', '5' ]
+nrqxrffqbp15
+[ '1', '5' ]
+15
+[ '3', 'one', 'seven', '6', 'eight', '4' ]
+mklsgg3oneseven6eight4bnbfxf
+[ '3', '1', '7', '6', '8', '4' ]
+34
+[ '9', 'five', '5', '9', '6', 'three' ]
+9five5klpzgrccnxvd96three
+[ '9', '5', '5', '9', '6', '3' ]
+93
+[ 'eight', '8' ]
+sgbqgrlqreight8
+[ '8', '8' ]
+88
+[ '4', 'four', 'eight', '1' ]
+jlvrfrskmlrdtdpr4foureight1xccgtcf
+[ '4', '4', '8', '1' ]
+41
+[ 'five', '5', 'three', '4' ]
+five5threek4hsmqjq
+[ '5', '5', '3', '4' ]
+54
+[ 'five', '6' ]
+five6pxqlplmtvcvjgtbk
+[ '5', '6' ]
+56
+[ '3', 'seven', 'nine', 'four', 'one' ]
+3sevenninefourone
+[ '3', '7', '9', '4', '1' ]
+31
+[ 'three', 'one', '9', 'eight', 'two' ]
+nbrthreeone9gxeightlrkfvgtzhtwoqvnfb
+[ '3', '1', '9', '8', '2' ]
+32
+[ 'eight', 'two', '9', '7', '2', '5', 'three' ]
+teightwo972hrdrlgn5mpbjrxprpkjxgdkghgrgbthree
+[
+  '8', '2', '9',
+  '7', '2', '5',
+  '3'
+]
+83
+[ '7', 'one' ]
+7nzgktdsvkjlqdlonergplcdqvv
+[ '7', '1' ]
+71
+[ '3', 'five', 'seven', '9', 'eight' ]
+kzxttx3fivesevenjdlqz9eight
+[ '3', '5', '7', '9', '8' ]
+38
+[
+  '9',   '2', '4',
+  '5',   '9', '5',
+  'two'
+]
+9slfgkbdmq24nh595two
+[
+  '9', '2', '4',
+  '5', '9', '5',
+  '2'
+]
+92
+[ 'five', 'eight', '1' ]
+tkbnjhjrfivekqqxsjleight1
+[ '5', '8', '1' ]
+51
+[ 'seven', '2', '3', '2', 'one' ]
+seven23kh2tggrone
+[ '7', '2', '3', '2', '1' ]
+71
+[
+  '1',    '2',
+  'four', '1',
+  '1',    'four',
+  '5'
+]
+12four1xcvkxbcv1four5zs
+[
+  '1', '2', '4',
+  '1', '1', '4',
+  '5'
+]
+15
+[ '7' ]
+j7ml
+[ '7' ]
+77
+[ '8', 'eight', 'one', '5', '8', 'eight' ]
+8eightone58dnxhddzstmfleight
+[ '8', '8', '1', '5', '8', '8' ]
+88
+[ '3', '7', 'five', 'eight', '3', '7' ]
+mtd37fiveeight3fxcbcd7
+[ '3', '7', '5', '8', '3', '7' ]
+37
+[ '2', 'five', 'eight' ]
+2fiveeight
+[ '2', '5', '8' ]
+28
+[ 'nine', '3', '2', '1' ]
+zkmvsnsgnine321mtbzzg
+[ '9', '3', '2', '1' ]
+91
+[ '4', '9' ]
+4tgzhmf9
+[ '4', '9' ]
+49
+[ 'three', '4' ]
+threexjqtqzgzj4kvdtbpjv
+[ '3', '4' ]
+34
+[ 'two', '3', '5', 'three', '4', 'seven' ]
+twohmnpsqbdcrbl35three4seven
+[ '2', '3', '5', '3', '4', '7' ]
+27
+[ '2', 'two', '8', 'four' ]
+2twolpmdnxmcps8fourttfrhzzx
+[ '2', '2', '8', '4' ]
+24
+[ 'one', '2', 'two', 'eight', 'five', 'three' ]
+onegqsqrhx2twoeightcxmnxvzsfivethree
+[ '1', '2', '2', '8', '5', '3' ]
+13
+[ '2', 'eight', 'seven', '9', '2', 'six' ]
+2eightseven92sixcjmkzjsl
+[ '2', '8', '7', '9', '2', '6' ]
+26
+[ '9' ]
+9gncpkg
+[ '9' ]
+99
+[
+  'six',  '5',
+  '1',    'eight',
+  'four', 'seven',
+  'four'
+]
+six51eightfourkmqbrrkkrjzmhgsevenfour
+[
+  '6', '5', '1',
+  '8', '4', '7',
+  '4'
+]
+64
+[
+  '9',     'seven',
+  'three', '8',
+  '3',     'eight',
+  '9',     'eight',
+  'two'
+]
+9bhxxzseventhreesglvvpjmc83eight9eightwomd
+[
+  '9', '7', '3',
+  '8', '3', '8',
+  '9', '8', '2'
+]
+92
+[ '1', '6', '4', '1', 'three', 'five' ]
+164cndtzcrdrxfzgnvqkvd1threefive
+[ '1', '6', '4', '1', '3', '5' ]
+15
+[ '4', '3', 'two', 'six', 'six' ]
+43sjlrhsrthqtwoqrxkqsixsix
+[ '4', '3', '2', '6', '6' ]
+46
+[ 'two', '3', 'four', '1', '6', '1', 'three' ]
+twohfbqjxmc3four161three
+[
+  '2', '3', '4',
+  '1', '6', '1',
+  '3'
+]
+23
+[ '4' ]
+4ngvsmdvm
+[ '4' ]
+44
+[ '9' ]
+xmhkgqdnfbdxcxm9
+[ '9' ]
+99
+[ '9', '9', '6', 'one' ]
+lqgxmshjzgggj9jsqnv96one
+[ '9', '9', '6', '1' ]
+91
+[ '2', 'one', 'six', '1', 'seven', 'one' ]
+vt2znbmqonesix1gjppfmsevenone
+[ '2', '1', '6', '1', '7', '1' ]
+21
+[ 'three', '8', 'eight' ]
+nvdjzzlspjthree8eight
+[ '3', '8', '8' ]
+38
+[ 'two', 'one', '1', 'one', '3', 'five' ]
+qzvtwone1one3fivek
+[ '2', '1', '1', '1', '3', '5' ]
+25
+[ 'eight', 'nine', 'three', 'four', 'three', '7' ]
+eightlfztsninepxfstsxtthreefourthree7
+[ '8', '9', '3', '4', '3', '7' ]
+87
+[ '6' ]
+k6
+[ '6' ]
+66
+[ 'eight', '2' ]
+zmeight2
+[ '8', '2' ]
+82
+[ '3', 'three', 'three', '2', '3', '2' ]
+3cblxxxthreethree232
+[ '3', '3', '3', '2', '3', '2' ]
+32
+[ 'two', '6', 'six', '3', '9', 'one', 'eight' ]
+two6sixcsgnzqbttjdzqs39oneightdr
+[
+  '2', '6', '6',
+  '3', '9', '1',
+  '8'
+]
+28
+[ '8', 'six', '2', '8' ]
+bnjzfkmfh8ndfssix2pff8nctdvdqk
+[ '8', '6', '2', '8' ]
+88
+[ '6', 'five', 'seven' ]
+spxskgfmtgghlmklqzz6tdgxnbnnxfmgnfiveseven
+[ '6', '5', '7' ]
+67
+[ '6', '2' ]
+cqrlmd62gsh
+[ '6', '2' ]
+62
+[ '6', '4' ]
+6rmrzkv4
+[ '6', '4' ]
+64
+[ 'nine', 'one', '6', '8', 'six', 'one' ]
+nineone6dbtzrtsp8sixzrhjhkrhvsxktbdkjcrone
+[ '9', '1', '6', '8', '6', '1' ]
+91
+[ '5', 'three', '2' ]
+5pvhbxqdvvqhlthreejqvs2
+[ '5', '3', '2' ]
+52
+[ 'eight', 'two', 'three', '9' ]
+lmeightwothreesjrsqgsv9
+[ '8', '2', '3', '9' ]
+89
+[ 'seven', '8', 'two', '9', '2', 'eight' ]
+seven8two92eight
+[ '7', '8', '2', '9', '2', '8' ]
+78
+[ 'five', '9', 'six', 'eight', 'one', '8' ]
+five9sixeightonevzqtzq8tcgpbgthzvlcld
+[ '5', '9', '6', '8', '1', '8' ]
+58
+[ '5', '1' ]
+51ptkkdnzhgp
+[ '5', '1' ]
+51
+[ '7', 'two', 'four', 'four' ]
+7jkrtwofourfour
+[ '7', '2', '4', '4' ]
+74
+[ '1', '5', '9', '5' ]
+xpzvfcdv1jvbd5mgvchdbnd9chlvqkc5
+[ '1', '5', '9', '5' ]
+15
+[ '2', '7', 'three', '1', '2', 'eight' ]
+27threectsxpfd12eight
+[ '2', '7', '3', '1', '2', '8' ]
+28
+[ '3', 'four', 'seven', '1', '2' ]
+prqbfh3foursevencgmhkmkd12
+[ '3', '4', '7', '1', '2' ]
+32
+[
+  'one',   '5',
+  'seven', '8',
+  'three', 'eight',
+  '6'
+]
+one5seven8threegqcznrrxfheightfvkjkssbch6
+[
+  '1', '5', '7',
+  '8', '3', '8',
+  '6'
+]
+16
+[ '1', 'six', 'eight', '3', '3' ]
+1vgsixeight3sztxzjkgldmqqbrm3
+[ '1', '6', '8', '3', '3' ]
+13
+[ 'one', 'five', '3' ]
+jjcpponejtxkmnmggtfive3
+[ '1', '5', '3' ]
+13
+[ 'six', '3', '3' ]
+sixlsqgmqkjjzrpqj3dgsrpdzj3mjkdqhpq
+[ '6', '3', '3' ]
+63
+[ 'five', '7' ]
+slxstvfive7nfst
+[ '5', '7' ]
+57
+[ '6', 'five', 'five' ]
+6fiventqxzhxkfivekcdbhrkx
+[ '6', '5', '5' ]
+65
+[ 'seven', 'four', 'six', '7', 'three' ]
+sevenjqmfmbjfoursixcx7threexspc
+[ '7', '4', '6', '7', '3' ]
+73
+[ '2', '2', '5' ]
+kgqjjxfkmhqtf22htnvmpgxsztbb5
+[ '2', '2', '5' ]
+25
+[ 'nine', 'four', '1' ]
+nineqzgzsscrrfngnzksfour1
+[ '9', '4', '1' ]
+91
+[ '9', 'three', '4', 'one', 'seven', '9' ]
+9threerq4rhnbmhhsoneseven9
+[ '9', '3', '4', '1', '7', '9' ]
+99
+[ '6', 'eight', 'eight', 'three', '5', 'eight' ]
+6eighteightmjbthree5eight
+[ '6', '8', '8', '3', '5', '8' ]
+68
+[ 'three', '2', '4' ]
+threexhzqqs2kjdqvjr4
+[ '3', '2', '4' ]
+34
+[ '3', 'two' ]
+z3ktworvbgbqzbpt
+[ '3', '2' ]
+32
+[ '2', 'one', 'five', '6' ]
+2onefive6
+[ '2', '1', '5', '6' ]
+26
+[ '6', '9', '4', '9', '2' ]
+c69492
+[ '6', '9', '4', '9', '2' ]
+62
+[ 'eight', 'six', 'nine', '8' ]
+eightsixnine8tpjcxmpln
+[ '8', '6', '9', '8' ]
+88
+[ '3', '5', 'nine', '7' ]
+mxxfpjsplj3msxqdnnbcbbqxfzs5ninecmjpzq7
+[ '3', '5', '9', '7' ]
+37
+[
+  'nine', 'nine',
+  'six',  'five',
+  '3',    'seven',
+  'two'
+]
+cnineninesixfive3seventwo
+[
+  '9', '9', '6',
+  '5', '3', '7',
+  '2'
+]
+92
+[
+  'six',  '1',
+  '8',    'eight',
+  '3',    'eight',
+  'four', 'three',
+  'one'
+]
+six18eight3eightfourthreeone
+[
+  '6', '1', '8',
+  '8', '3', '8',
+  '4', '3', '1'
+]
+61
+[ '6', '4', '1', '7', 'one' ]
+6zdtsqkplv41jmrk7qkgjpkqgmmqsttvrhkzone
+[ '6', '4', '1', '7', '1' ]
+61
+[ '7', 'three', '4', 'five', 'two' ]
+7threenvbjsvbshmd4sxffiveqvvctwo
+[ '7', '3', '4', '5', '2' ]
+72
+[ 'two', '2', 'two', '7', '4' ]
+two2two7lpmsjl4
+[ '2', '2', '2', '7', '4' ]
+24
+[ 'six', 'eight', 'eight', '7', '1' ]
+sixceighteight71psffhzjdjrm
+[ '6', '8', '8', '7', '1' ]
+61
+[ 'seven', 'three', '2', 'eight' ]
+seventhree2eight
+[ '7', '3', '2', '8' ]
+78
+[ '7' ]
+qpmpfdlr7
+[ '7' ]
+77
+[ 'six', '5' ]
+dxtzmkcrsix5
+[ '6', '5' ]
+65
+[ '6', '5', 'one', 'seven', '7', '2', 'five' ]
+65oneptbzdxcsqseven72five
+[
+  '6', '5', '1',
+  '7', '7', '2',
+  '5'
+]
+65
+[ '7', 'two', 'two', 'seven', '8', 'one' ]
+7bdmgtzdmtwotwoseven8one
+[ '7', '2', '2', '7', '8', '1' ]
+71
+[ '1', '4', 'six', 'three', '1', '2' ]
+14sixckthree1n2
+[ '1', '4', '6', '3', '1', '2' ]
+12
+[ 'two', 'two', '5', 'six', '3', '5' ]
+twotwo5hpqhmnnjbsix35
+[ '2', '2', '5', '6', '3', '5' ]
+25
+[ 'one', '5', 'two', 'three', 'eight', 'seven' ]
+one5twothreeeightglqdbjlgkseven
+[ '1', '5', '2', '3', '8', '7' ]
+17
+[ 'one', '4', 'two' ]
+one4twokzbdzv
+[ '1', '4', '2' ]
+12
+[ '8', '7', '1', 'six', '5', '8' ]
+8mcv71six58kkxdqx
+[ '8', '7', '1', '6', '5', '8' ]
+88
+[ 'six', '8' ]
+bgbvdrfsixfqqvnlptzrqkhgmt8
+[ '6', '8' ]
+68
+[ '3', '7', 'one', 'eight' ]
+37oneightrmm
+[ '3', '7', '1', '8' ]
+38
+[ '3', 'one', 'three' ]
+3onefbtvqchjthreebhxpvlqcdqh
+[ '3', '1', '3' ]
+33
+[ 'nine', '2' ]
+gjcninercqpvvzdfkcdcfv2
+[ '9', '2' ]
+92
+[ '1', '3', 'four' ]
+13fourbgntvtnxmr
+[ '1', '3', '4' ]
+14
+[ '8', '4', '4', '7' ]
+8447zdxvzfkft
+[ '8', '4', '4', '7' ]
+87
+[ '1', 'four', 'six' ]
+1foursix
+[ '1', '4', '6' ]
+16
+[
+  'three', 'five',
+  'two',   'seven',
+  '4',     'eight',
+  'four',  'three'
+]
+threefivetwoseven4eighttsxflbcqtnfourthree
+[
+  '3', '5', '2',
+  '7', '4', '8',
+  '4', '3'
+]
+33
+[ 'seven', '1', 'two', '6', '3' ]
+tseven1twolzjkfdttfklsdzrrflnfxfgvlq63
+[ '7', '1', '2', '6', '3' ]
+73
+[ 'four', '9', 'one', '9', 'two' ]
+four9fone9twobhppd
+[ '4', '9', '1', '9', '2' ]
+42
+[ 'nine', '5' ]
+nzcvxgjqrsfqgkktggdlnine5
+[ '9', '5' ]
+95
+[ '5', '7' ]
+57thz
+[ '5', '7' ]
+57
+[ '3', 'three', 'seven', '2', '5' ]
+3threeseven25
+[ '3', '3', '7', '2', '5' ]
+35
+[ '6', 'five', 'two', 'one' ]
+zsbc6fivecqvlhtwolqone
+[ '6', '5', '2', '1' ]
+61
+[ 'one', 'eight', 'nine', '6', '2', '3', '4' ]
+nnsoneightdnine6rhckhj23fjj4
+[
+  '1', '8', '9',
+  '6', '2', '3',
+  '4'
+]
+14
+[ '1', '6', 'two' ]
+cj1rbxlggxxgtxxbmtgfg6two
+[ '1', '6', '2' ]
+12
+[ '4' ]
+vhkgpz4
+[ '4' ]
+44
+[ 'eight', 'one', '9', 'six', '2', '9' ]
+nrmskeightone9six2clhcjkcl9jk
+[ '8', '1', '9', '6', '2', '9' ]
+89
+[ 'one', '9', '6' ]
+onejvdcrf96hbv
+[ '1', '9', '6' ]
+16
+[ 'seven', '8', 'three', '5', '5' ]
+seven8three55
+[ '7', '8', '3', '5', '5' ]
+75
+[ '1', 'six', 'two', '7', '9' ]
+1sixtwo79
+[ '1', '6', '2', '7', '9' ]
+19
+[ 'nine', '2', '9' ]
+jcqknvjppbxsphlxrrcbzmkqnine29
+[ '9', '2', '9' ]
+99
+[ '2', 'four' ]
+2fourvgzhnq
+[ '2', '4' ]
+24
+[ '2', 'six', '9', '3', '6', 'nine' ]
+2six93rdrkfjkqlllx6nine
+[ '2', '6', '9', '3', '6', '9' ]
+29
+[ '7', '7', 'one' ]
+77onevkvqhvptbn
+[ '7', '7', '1' ]
+71
+[ '3', '2', '5', '5' ]
+32szxlxdc5zlrtjdqpt5
+[ '3', '2', '5', '5' ]
+35
+[
+  'nine',  '7',
+  '5',     'seven',
+  'three', '1',
+  'six'
+]
+nine75hzkzvdseventhreelxt1six
+[
+  '9', '7', '5',
+  '7', '3', '1',
+  '6'
+]
+96
+[ '8', '4', 'four' ]
+vdbgshtjm8grgllht4qhpkhdfour
+[ '8', '4', '4' ]
+84
+[ 'eight', '3' ]
+mrvdgqvseight3jtzfdspdtrkf
+[ '8', '3' ]
+83
+[ '2', 'two', 'one' ]
+kcg2twoonelcpxlg
+[ '2', '2', '1' ]
+21
+[ '2' ]
+2xlcjcxzczt
+[ '2' ]
+22
+[ '1', '1', '2', 'eight' ]
+1pszcvn12sxmcbdxznpeightxvdjjbgrjlpdv
+[ '1', '1', '2', '8' ]
+18
+[ 'four', 'nine', 'one', 'six', 'three', '8' ]
+fourbsbkvnineonesixthree8
+[ '4', '9', '1', '6', '3', '8' ]
+48
+[ '9', '4', '5', 'five', '5', 'one' ]
+945five5one
+[ '9', '4', '5', '5', '5', '1' ]
+91
+[ 'nine', '7', '1', '7', '9' ]
+nine71gzq79
+[ '9', '7', '1', '7', '9' ]
+99
+[ '3', 'three', 'eight', 'eight' ]
+3threeeighteightldqcgtbd
+[ '3', '3', '8', '8' ]
+38
+[ 'two', '6', '7', '1', 'four', '2' ]
+two671four2r
+[ '2', '6', '7', '1', '4', '2' ]
+22
+[ 'four', '5', 'two' ]
+bbfpvdsvffour5two
+[ '4', '5', '2' ]
+42
+[ '7', '6', '7', '9', '7' ]
+767l97hm
+[ '7', '6', '7', '9', '7' ]
+77
+[ 'two', 'four', '5' ]
+twofour5
+[ '2', '4', '5' ]
+25
+[ '9', '3', '1', '3', '4' ]
+xxrs931ckbg34g
+[ '9', '3', '1', '3', '4' ]
+94
+[ '4' ]
+qhnht4
+[ '4' ]
+44
+[ 'nine', '7', '2', '3', 'nine', '9' ]
+nine723nine9
+[ '9', '7', '2', '3', '9', '9' ]
+99
+[ '9', '3', 'eight', '5', '6', 'seven' ]
+93preight5f6seven
+[ '9', '3', '8', '5', '6', '7' ]
+97
+[ 'one', '8' ]
+one8qncpgpl
+[ '1', '8' ]
+18
+[ 'five', 'eight', 'six', '8', '2' ]
+fiveeightsix8jr2
+[ '5', '8', '6', '8', '2' ]
+52
+[ 'two', '9', '6', '2' ]
+twocdv9lrtsbcdtvz62pkzm
+[ '2', '9', '6', '2' ]
+22
+[ 'eight', '2' ]
+dmhfljxqxeightxmbprh2
+[ '8', '2' ]
+82
+[ '5' ]
+rr5
+[ '5' ]
+55
+[ '5', 'two', 'two' ]
+5twotwo
+[ '5', '2', '2' ]
+52
+[ 'three', '8', 'two', '5' ]
+three8two5
+[ '3', '8', '2', '5' ]
+35
+[ '4', '4', '2', 'two', 'eight', 'seven', '5' ]
+4rjqmbdtxv42twoeightseven5
+[
+  '4', '4', '2',
+  '2', '8', '7',
+  '5'
+]
+45
+[ 'four', '3', '4', '9', 'six' ]
+fourb349six
+[ '4', '3', '4', '9', '6' ]
+46
+[ '3', '1', 'nine', 'nine', 'five', '7' ]
+f31nineninetxtdtfivehc7
+[ '3', '1', '9', '9', '5', '7' ]
+37
+[ '1', 'one', '3' ]
+1one3
+[ '1', '1', '3' ]
+13
+[ '2', 'eight' ]
+2eightxztclpbvkp
+[ '2', '8' ]
+28
+[ '6', 'nine', '2', '1', '1' ]
+bkxvnhhn6nine211
+[ '6', '9', '2', '1', '1' ]
+61
+[ '1', 'two', 'seven', '3' ]
+1twoseven3xmzg
+[ '1', '2', '7', '3' ]
+13
+[ 'nine', '5', '4', 'eight', 'two' ]
+lnzpnine54eightwoqpr
+[ '9', '5', '4', '8', '2' ]
+92
+[ 'three', '9', 'nine' ]
+gnhdcgdmvthree9nine
+[ '3', '9', '9' ]
+39
+[ '1', 'five', 'six' ]
+vlxjmdc1fivesix
+[ '1', '5', '6' ]
+16
+[ 'nine', 'one', 'four', '6', '9' ]
+nineonefour69
+[ '9', '1', '4', '6', '9' ]
+99
+[ '7', 'nine', '3', 'two', '4' ]
+ktdkztzmmcgxslggh7dhptrkgfbqnine3two4
+[ '7', '9', '3', '2', '4' ]
+74
+[ '6' ]
+qfczhgjnt6
+[ '6' ]
+66
+[ '3', 'four' ]
+3fourrzmt
+[ '3', '4' ]
+34
+[ 'one', 'three', '2', 'four', '3', 'one' ]
+onethree2four3nztsmbqmtldgonenlc
+[ '1', '3', '2', '4', '3', '1' ]
+11
+[ '2', '9', 'six', '9', '8', '5' ]
+29six9xlffbvfntz85
+[ '2', '9', '6', '9', '8', '5' ]
+25
+[ 'five', '6', 'seven' ]
+five6trqbjkhjfmrlgpcxseven
+[ '5', '6', '7' ]
+57
+[ 'three', '9', '6' ]
+threegz9chglg6
+[ '3', '9', '6' ]
+36
+[ '9' ]
+9tq
+[ '9' ]
+99
+[
+  '1',    'one',
+  'five', '8',
+  'two',  '8',
+  '4'
+]
+1onefive8two84ngrh
+[
+  '1', '1', '5',
+  '8', '2', '8',
+  '4'
+]
+14
+[ 'eight', 'five', '1' ]
+hrqhreightfive1lp
+[ '8', '5', '1' ]
+81
+[ 'one', 'three', '4' ]
+onethree4
+[ '1', '3', '4' ]
+14
+[ 'two', '8', 'six', 'six' ]
+two8psmqcbsixsix
+[ '2', '8', '6', '6' ]
+26
+[ 'six', 'seven', '3' ]
+sixseven3xxczmccll
+[ '6', '7', '3' ]
+63
+[ 'four', '5', 'three' ]
+fourmmlcgbkhktbmrp5three
+[ '4', '5', '3' ]
+43
+[ '2', '7', 'five', '7', 'one' ]
+27sztxgmqdvnfivelfcpzjsx7one
+[ '2', '7', '5', '7', '1' ]
+21
+[ '6', 'seven' ]
+hdbhrqhhffbgjxvdpqk6sevenbn
+[ '6', '7' ]
+67
+[ '9', '3', 'nine', '7', '4' ]
+93ninezmtrgjqbsp74
+[ '9', '3', '9', '7', '4' ]
+94
+[ '9' ]
+gsljpvzxkq9
+[ '9' ]
+99
+[ 'eight', 'seven', '1', 'four' ]
+zbjzzrnkbeightseven1four
+[ '8', '7', '1', '4' ]
+84
+[ 'four', 'five', 'two', 'three', '2', '5' ]
+fourfivetwothree2rh5
+[ '4', '5', '2', '3', '2', '5' ]
+45
+[ '1', '5', '5', '1' ]
+155cqrh1
+[ '1', '5', '5', '1' ]
+11
+[ '1', 'eight' ]
+1tjdeight
+[ '1', '8' ]
+18
+[ '7', '8', '3', 'seven' ]
+dvnlk78cbvdrccmmx3seven
+[ '7', '8', '3', '7' ]
+77
+[ '8', 'seven', 'eight', 'six' ]
+8seveneightsix
+[ '8', '7', '8', '6' ]
+86
+[ '9', '7', '7', 'seven' ]
+ffjlhcgxp97plmttszkvj7jvtsgsevenznl
+[ '9', '7', '7', '7' ]
+97
+[ '1', '2', '1', 'four' ]
+121four
+[ '1', '2', '1', '4' ]
+14
+[ 'three', 'two', '4' ]
+threetkqnxtwobvbmzj4ppkdxqtblszmxqhqbv
+[ '3', '2', '4' ]
+34
+[ '5', 'seven', 'eight', 'two', 'seven' ]
+5sevenxgcgqnlpkpnfmcnkbfbeighttwosevenhpht
+[ '5', '7', '8', '2', '7' ]
+57
+[ 'five', 'nine', '5', 'eight' ]
+gkgnfiveninelr5eight
+[ '5', '9', '5', '8' ]
+58
+[ 'six', '4', 'nine', '7', '3' ]
+six4nine73szmldmdd
+[ '6', '4', '9', '7', '3' ]
+63
+[ '9' ]
+9jfgcslbrcz
+[ '9' ]
+99
+[ 'two', '8', 'eight', 'nine', 'six', '6' ]
+jrgrnmntmtwonptz8eightninesix6
+[ '2', '8', '8', '9', '6', '6' ]
+26
+[ '2', '3', '8', 'eight', '1' ]
+238eight1xtjdgb
+[ '2', '3', '8', '8', '1' ]
+21
+[ '2', 'one', '6', '6', 'four', '1' ]
+2one66fourndjcxmmbhfcq1
+[ '2', '1', '6', '6', '4', '1' ]
+21
+[ '5', 'seven', 'six' ]
+5bmfntsevensix
+[ '5', '7', '6' ]
+56
+[
+  '5', '8', '3',
+  '2', '6', '6',
+  '3'
+]
+5832663v
+[
+  '5', '8', '3',
+  '2', '6', '6',
+  '3'
+]
+53
+[
+  '7',     'six',
+  'one',   '8',
+  'three', 'one',
+  'nine'
+]
+7sixdzmhfrjonebdqlqh8threeonenine
+[
+  '7', '6', '1',
+  '8', '3', '1',
+  '9'
+]
+79
+[ '9', '2', 'six' ]
+92six
+[ '9', '2', '6' ]
+96
+[ '9', '1', 'two' ]
+vqpg91hspvdgtwol
+[ '9', '1', '2' ]
+92
+[ 'five', 'two', '1', '8', 'four', '7' ]
+fivembzffnlcktwo18four7
+[ '5', '2', '1', '8', '4', '7' ]
+57
+[ 'six', '9', '9', '8' ]
+six99nbzrgd8
+[ '6', '9', '9', '8' ]
+68
+[ 'one', 'six', '9', '1' ]
+onexqflrlvdmrsix9nbl1szkf
+[ '1', '6', '9', '1' ]
+11
+[ '1', '3' ]
+vqmlzjc1d3
+[ '1', '3' ]
+13
+[ 'three', '7', 'two', '4', 'three' ]
+three7two4vbgzthree
+[ '3', '7', '2', '4', '3' ]
+33
+[ 'two', 'nine', '2', '6', 'one', '2' ]
+twoninejbbxhdfnbqjddj26one2
+[ '2', '9', '2', '6', '1', '2' ]
+22
+[
+  '5',    'nine',
+  '2',    '9',
+  '6',    'nine',
+  'four', 'one'
+]
+5nine296ninefourone
+[
+  '5', '9', '2',
+  '9', '6', '9',
+  '4', '1'
+]
+51
+[ 'one', 'three', '3', '6', 'seven', 'four' ]
+onevznthreedbtjtgxhh36sevenfour
+[ '1', '3', '3', '6', '7', '4' ]
+14
+[ '7', '1', 'six', '7', '4' ]
+zfkffkjsz7btqgtm1lqvsix74frjhrkbjj
+[ '7', '1', '6', '7', '4' ]
+74
+[
+  'nine', '6',
+  'five', 'nine',
+  '8',    'nine',
+  'nine'
+]
+sltlgnine6fiveninegglpc8ninenine
+[
+  '9', '6', '5',
+  '9', '8', '9',
+  '9'
+]
+99
+[ 'two', '7', 'three' ]
+two7three
+[ '2', '7', '3' ]
+23
+[ 'four', '1', 'two', '9', '8' ]
+fourbrmdvfbtnnnhr1mnhbztwo98
+[ '4', '1', '2', '9', '8' ]
+48
+[ 'nine', '6', 'nine' ]
+nine6slnine
+[ '9', '6', '9' ]
+99
+[ '3', '5' ]
+cqkfp35hzrdlcpcsjhssdlnjv
+[ '3', '5' ]
+35
+[ 'six', '4', '2', 'seven', '3', '2', 'five' ]
+six42seven32five
+[
+  '6', '4', '2',
+  '7', '3', '2',
+  '5'
+]
+65
+[ 'five', '9', '6', 'seven' ]
+zkhjblqjlsfive9kbxzhjmnzrxbrrj6sevenjdvljbh
+[ '5', '9', '6', '7' ]
+57
+[ '9', 'eight', '4', '3' ]
+9ldrjmjpqeight4pnmcfvg3b
+[ '9', '8', '4', '3' ]
+93
+[ 'one', '8' ]
+lone8
+[ '1', '8' ]
+18
+[ 'two', '1', 'six', 'four' ]
+two1sixfourgskrlfkxxdhbjspmhg
+[ '2', '1', '6', '4' ]
+24
+[ '4', 'eight', '2', 'one', '5', '2' ]
+4hgceight2one52jmbmjkjb
+[ '4', '8', '2', '1', '5', '2' ]
+42
+[ 'six', '8', 'five', 'six', '3' ]
+six8zfbjxfckfivesixzrpn3
+[ '6', '8', '5', '6', '3' ]
+63
+[ '6' ]
+vbrbvv6
+[ '6' ]
+66
+[ '1', '5', 'two', '6', 'one' ]
+jfjkvxcrbjhztvtmjbp15two6one
+[ '1', '5', '2', '6', '1' ]
+11
+[ '3', '4' ]
+3xvhtzgqpn4td
+[ '3', '4' ]
+34
+[ 'three', '4', '4' ]
+xthree44
+[ '3', '4', '4' ]
+34
+[
+  '6', '8', '9',
+  '7', '3', 'one',
+  '7', '5'
+]
+68973one7rmx5
+[
+  '6', '8', '9',
+  '7', '3', '1',
+  '7', '5'
+]
+65
+[ '2', '6', 'two', '8', '7', 'seven' ]
+ptbndknk26two8cv7seven
+[ '2', '6', '2', '8', '7', '7' ]
+27
+[ '5', '7', '4', '1', '7', 'four' ]
+57417four
+[ '5', '7', '4', '1', '7', '4' ]
+54
+[
+  'eight', 'two',
+  '3',     'three',
+  'five',  'five',
+  '9',     '2'
+]
+ngeightwopgdtlxjgs3threefivefivesk92zgcmch
+[
+  '8', '2', '3',
+  '3', '5', '5',
+  '9', '2'
+]
+82
+[ '6', 'nine', 'four', 'six' ]
+pmfjgxpg6ninefoursix
+[ '6', '9', '4', '6' ]
+66
+[ '5', '8' ]
+5hlgzgrxhxxqt8
+[ '5', '8' ]
+58
+[ '1', 'nine', '3' ]
+1nine3
+[ '1', '9', '3' ]
+13
+[ '7', 'nine', 'nine', '4' ]
+gvdhxthjxnxv7dtzninenine4
+[ '7', '9', '9', '4' ]
+74
+[ 'two', 'one', '6', '8', 'eight', '6', 'six' ]
+jrtwonehzddmgcjsn6rzldcsfpqs8eight6six
+[
+  '2', '1', '6',
+  '8', '8', '6',
+  '6'
+]
+26
+[ '5', 'four', 'five' ]
+5fourfive
+[ '5', '4', '5' ]
+55
+[ '6' ]
+jn6
+[ '6' ]
+66
+[ 'two', '2', 'four' ]
+two2four
+[ '2', '2', '4' ]
+24
+[
+  '5',    '6',
+  '7',    'nine',
+  'five', '5',
+  'five', 'four'
+]
+567ninefive5fivefourdrbh
+[
+  '5', '6', '7',
+  '9', '5', '5',
+  '5', '4'
+]
+54
+[ '3', '6', 'seven', 'six', 'nine' ]
+36sevensixkbphcrstnine
+[ '3', '6', '7', '6', '9' ]
+39
+[ '7', '6', '7', '3' ]
+76svmjhhkrt73
+[ '7', '6', '7', '3' ]
+73
+[ 'nine', '4' ]
+thgzhsclsptfqfzpsnine4cxxpv
+[ '9', '4' ]
+94
+[ 'two', '1', 'one', '8', 'nine', '7' ]
+two1one8fninefdctxpmtk7
+[ '2', '1', '1', '8', '9', '7' ]
+27
+[ 'seven', '9' ]
+seventpxmbxcl9
+[ '7', '9' ]
+79
+[ '7', 'nine', '6' ]
+cghxxdnnf7vmvqdfhhxznine6dgt
+[ '7', '9', '6' ]
+76
+[ 'one', 'eight', 'six', '7' ]
+soneightsix7
+[ '1', '8', '6', '7' ]
+17
+[ '7', '3', 'three', '6' ]
+7ft3threeqdhxjmkgd6vgfmb
+[ '7', '3', '3', '6' ]
+76
+[ '1', 'three', 'six', '5' ]
+1threesix5lzjzrm
+[ '1', '3', '6', '5' ]
+15
+[ 'five', 'one', '6' ]
+fiveonedknfvkphltcxnsvxpvxlxldxrqftcmqvvqx6
+[ '5', '1', '6' ]
+56
+[ 'one', '1', '3' ]
+sone1tnmqklzvbbctjvntddpm3
+[ '1', '1', '3' ]
+13
+[ 'nine', '9' ]
+nine9vb
+[ '9', '9' ]
+99
+[ 'eight', '5', '2', 'three' ]
+eight52threeqnhhvn
+[ '8', '5', '2', '3' ]
+83
+[ '8', '7', 'eight', '4', '8', '5' ]
+87fhkjhseight485
+[ '8', '7', '8', '4', '8', '5' ]
+85
+[ '1', 'one', 'six', 'four', '7' ]
+1onesixzczvlsmhbfour7
+[ '1', '1', '6', '4', '7' ]
+17
+[ '3', 'seven' ]
+3ztseven
+[ '3', '7' ]
+37
+[ '7', '2', 'three' ]
+7tjjbq2three
+[ '7', '2', '3' ]
+73
+[
+  'seven', '1',
+  'eight', '9',
+  '8',     'one',
+  'eight'
+]
+sevenv1eight9cpvmrn8oneightnxs
+[
+  '7', '1', '8',
+  '9', '8', '1',
+  '8'
+]
+78
+[ '1', 'three', '2', 'eight' ]
+1threehlhxjj2eight
+[ '1', '3', '2', '8' ]
+18
+[
+  'six', '8',    '7',
+  'two', 'four', '3',
+  '6',   '4',    '6'
+]
+six87twofour3646
+[
+  '6', '8', '7',
+  '2', '4', '3',
+  '6', '4', '6'
+]
+66
+[ 'eight', '2', 'eight' ]
+eightzlmj2zreightbflxtmdbv
+[ '8', '2', '8' ]
+88
+[ 'one', '2', 'eight', 'one' ]
+one2eightznone
+[ '1', '2', '8', '1' ]
+11
+[
+  'seven', '2',
+  'eight', '7',
+  'five',  '1',
+  'seven'
+]
+seven2eightvlxkqnpjb7dlqrmnhtfive1seven
+[
+  '7', '2', '8',
+  '7', '5', '1',
+  '7'
+]
+77
+[ '4', '3', 'eight', '3' ]
+43eight3
+[ '4', '3', '8', '3' ]
+43
+[ 'five', 'six', 'five', 'eight', 'one', '7' ]
+fivesixfiveeightsxrvgmpshvone7
+[ '5', '6', '5', '8', '1', '7' ]
+57
+[ '7', 'eight', 'one', '1' ]
+7dpmrqeightone1rdfdrx
+[ '7', '8', '1', '1' ]
+71
+[ '1', '3', '6', '7', 'nine' ]
+dtmtpgjll136dbcjlrhzrdnm7svlrdrcngpnine
+[ '1', '3', '6', '7', '9' ]
+19
+[ '5', '9' ]
+5dl9
+[ '5', '9' ]
+59
+[ '9', '4', 'two', '4', 'four' ]
+94ctwo4four
+[ '9', '4', '2', '4', '4' ]
+94
+[ '7', 'nine' ]
+7ninegnssldmnmqc
+[ '7', '9' ]
+79
+[ 'nine', '1', 'seven' ]
+nine1sevenzdvkpxxsfccmb
+[ '9', '1', '7' ]
+97
+[ 'one', '5', 'five', '1', '1' ]
+none5five1rsrsxpxnlt1lxtf
+[ '1', '5', '5', '1', '1' ]
+11
+[ 'six', '9' ]
+sixpl9nhgm
+[ '6', '9' ]
+69
+[ '5', '1', 'two', '2', 'five' ]
+51brpphslhjtwo2stjrkphcgrfive
+[ '5', '1', '2', '2', '5' ]
+55
+[ 'five', 'two', '6', '7', 'five', 'nine' ]
+fivetdhlrcbtwozdsfgcdnhv67fivesdjlqnine
+[ '5', '2', '6', '7', '5', '9' ]
+59
+[
+  '4',     'four',
+  'four',  '7',
+  'seven', 'four',
+  'five'
+]
+4fourfour7sevenfourfivenjdxvf
+[
+  '4', '4', '4',
+  '7', '7', '4',
+  '5'
+]
+45
+[ '6', '7', '4', 'one', '4', '6' ]
+674one46
+[ '6', '7', '4', '1', '4', '6' ]
+66
+[ '6', 'nine' ]
+6ninentdksjfkdvhkkxzrgftnbjmfsjgzd
+[ '6', '9' ]
+69
+[ '4', 'nine', 'one' ]
+4ninerpvfmfonetcnhk
+[ '4', '9', '1' ]
+41
+[ '1', 'eight', '5' ]
+1ksbmzccfreight5
+[ '1', '8', '5' ]
+15
+[ '3' ]
+3vqr
+[ '3' ]
+33
+[ 'nine', 'eight', '7', '3' ]
+ninegqbgveight7hggnxxgrq3
+[ '9', '8', '7', '3' ]
+93
+[
+  'six',  'four',
+  'four', 'seven',
+  '1',    'five',
+  '4'
+]
+sixfourfourseven1rfivekcflqd4
+[
+  '6', '4', '4',
+  '7', '1', '5',
+  '4'
+]
+64
+[ '1', 'six', 'nine' ]
+mzvqrlp1sixnine
+[ '1', '6', '9' ]
+19
+[ 'seven', 'nine', '3' ]
+sevennine3gqjmqrq
+[ '7', '9', '3' ]
+73
+[ '6', '8', 'one', '2', '5', '1', 'eight' ]
+6vhp8one251eight
+[
+  '6', '8', '1',
+  '2', '5', '1',
+  '8'
+]
+68
+[ '5', '3', 'two' ]
+5dnsxqrb3twokdzdbdcncm
+[ '5', '3', '2' ]
+52
+[ 'one', '9', 'nine' ]
+srcmzlkrone9ninegbfnfmxjf
+[ '1', '9', '9' ]
+19
+[
+  '8',    '2',
+  'four', '6',
+  '3',    'nine',
+  'six',  'two',
+  'one'
+]
+82lmhlhmtgfour6nbljxrgjb3ninesixtwoneqhc
+[
+  '8', '2', '4',
+  '6', '3', '9',
+  '6', '2', '1'
+]
+81
+[ '6' ]
+6pctdhrmhrgsbm
+[ '6' ]
+66
+[ 'seven', '5', 'three', '5', '1', '8', '4' ]
+sevenhgpfqvkh5three51jdkqz84
+[
+  '7', '5', '3',
+  '5', '1', '8',
+  '4'
+]
+74
+[ '9' ]
+hfzlmldpn9tjtlpb
+[ '9' ]
+99
+[ 'one', 'six', '6' ]
+phccmtthonesix6
+[ '1', '6', '6' ]
+16
+[ '3', 'four', 'one' ]
+3fourbrzqzsbnthone
+[ '3', '4', '1' ]
+31
+[ '1', '1', 'five', '4' ]
+11pssjfqkfivebmprltbvm4
+[ '1', '1', '5', '4' ]
+14
+[ '2', 'five' ]
+gmtc2five
+[ '2', '5' ]
+25
+[ 'one', '2', '4', 'five', 'two' ]
+one2lj4fivetwo
+[ '1', '2', '4', '5', '2' ]
+12
+[ 'nine', 'one', '2' ]
+ninexjrzfonehvntsmnzx2
+[ '9', '1', '2' ]
+92
+[ 'four', '7', '4', '6', 'seven' ]
+fourg746jpxvrbzdmseven
+[ '4', '7', '4', '6', '7' ]
+47
+[ 'six', '7', '6', '4', '3', '6' ]
+six76436
+[ '6', '7', '6', '4', '3', '6' ]
+66
+[ '8', '9', 'eight' ]
+89gddfltmdkkmleightqbzppmklxzgpnlg
+[ '8', '9', '8' ]
+88
+[ 'seven', '9' ]
+sevenmtfmdrbcl9
+[ '7', '9' ]
+79
+[
+  '3',    'six',
+  'nine', '5',
+  'six',  '5',
+  'two',  'one'
+]
+3cpgvjgzxsixnine5hvrxbdnclfgbvfsix5twonelv
+[
+  '3', '6', '9',
+  '5', '6', '5',
+  '2', '1'
+]
+31
+[ 'eight', 'one', '5' ]
+eightklzkzxltzone5
+[ '8', '1', '5' ]
+85
+[ '3', '7', '7', '1', 'eight', 'three', '6' ]
+377bqrbsdk1eightthree6
+[
+  '3', '7', '7',
+  '1', '8', '3',
+  '6'
+]
+36
+[ '2', 'seven', 'four' ]
+2sevenlfqhmfour
+[ '2', '7', '4' ]
+24
+[ '2', '1', 'one', 'one', '9' ]
+21oneonevg9rr
+[ '2', '1', '1', '1', '9' ]
+29
+[ 'one', '8', '4', 'one' ]
+onenzjgjxlmtrgbt84onenlls
+[ '1', '8', '4', '1' ]
+11
+[ '7', 'six', 'five' ]
+7rlgkgrsixfive
+[ '7', '6', '5' ]
+75
+[ '6', '7', '8', 'two' ]
+nmmpl6fc7ccg8lkvpvqplztwo
+[ '6', '7', '8', '2' ]
+62
+[ '8', '9', 'six' ]
+mzbxkmfcd89six
+[ '8', '9', '6' ]
+86
+[ '4', 'seven', '3', 'one', '3' ]
+fbhzskjt4seven3jrvfjhqsbcone3
+[ '4', '7', '3', '1', '3' ]
+43
+[ 'five', '3', 'seven', 'six' ]
+five3sevensix
+[ '5', '3', '7', '6' ]
+56
+[ 'eight', 'six', '6' ]
+eightsix6
+[ '8', '6', '6' ]
+86
+[ '9' ]
+n9
+[ '9' ]
+99
+[
+  'three', 'nine',
+  'nine',  '4',
+  '2',     '4',
+  'nine',  'six'
+]
+threeninemzpjqpcpvnine424ninesix
+[
+  '3', '9', '9',
+  '4', '2', '4',
+  '9', '6'
+]
+36
+[ '8', 'nine', 'four', '7' ]
+8ninesfour7
+[ '8', '9', '4', '7' ]
+87
+[
+  'two',  'nine',
+  '6',    'four',
+  'five', '7',
+  '2'
+]
+twopbsbvdpnine6fourfive7qbbckmhxgg2
+[
+  '2', '9', '6',
+  '4', '5', '7',
+  '2'
+]
+22
+[ '5', 'one' ]
+5ksvzfbdbgvnqonehsgtvgkbgjkzggsmpvkxpxtft
+[ '5', '1' ]
+51
+[
+  'eight', 'two',
+  '2',     'three',
+  '6',     '8',
+  'nine',  '3',
+  '9'
+]
+qeightwo2three68nine39lr
+[
+  '8', '2', '2',
+  '3', '6', '8',
+  '9', '3', '9'
+]
+89
+[ '5', '6', '2', '8', '3', 'five' ]
+5gpz6283five
+[ '5', '6', '2', '8', '3', '5' ]
+55
+[ '1', '9', 'four' ]
+19fourjctnldrqlghx
+[ '1', '9', '4' ]
+14
+[ 'two', 'one', '2', 'three' ]
+gtwonetbqxnvxlz2three
+[ '2', '1', '2', '3' ]
+23
+[ '5', 'two' ]
+jdvmph5fgztldhtwoxhzk
+[ '5', '2' ]
+52
+[ 'four', '8', 'three' ]
+fourgmhflfpxmbqpt8jdxkntnchmtkgqhsgthree
+[ '4', '8', '3' ]
+43
+[ '5', '2', '7', 'five' ]
+527five
+[ '5', '2', '7', '5' ]
+55
+[ '5', 'six', 'four' ]
+5sixfour
+[ '5', '6', '4' ]
+54
+[ 'five', '7' ]
+mdchltjjqmfive7
+[ '5', '7' ]
+57
+[ '6', 'eight', 'five' ]
+kn6glgjlspeightfivej
+[ '6', '8', '5' ]
+65
+[ '3', '7' ]
+3vsblvhkmt7
+[ '3', '7' ]
+37
+[
+  '1',    '7',
+  'one',  'seven',
+  'two',  'two',
+  'five'
+]
+17rmnoneqqgqmcvlseventwotwofive
+[
+  '1', '7', '1',
+  '7', '2', '2',
+  '5'
+]
+15
+[ 'eight', 'six', '3', 'two' ]
+eightjbmnzngtxsix3two
+[ '8', '6', '3', '2' ]
+82
+[ 'four', '3', 'one' ]
+fourgdczfkvs3onekrcm
+[ '4', '3', '1' ]
+41
+[ '2', 'nine' ]
+2prvszkhlnine
+[ '2', '9' ]
+29
+[ 'nine', '6', '7', 'two' ]
+nine67mqtxbthtfxgtwof
+[ '9', '6', '7', '2' ]
+92
+[ 'nine', '9', 'three', 'three', '6' ]
+lrcrninevgshzsrmj9threethree6
+[ '9', '9', '3', '3', '6' ]
+96
+[ 'three', '4', '9' ]
+bslrhlvpthree49fmlzb
+[ '3', '4', '9' ]
+39
+[ '3', '7' ]
+3nzqmndm7hxzrlsxgmt
+[ '3', '7' ]
+37
+[ '4', '8' ]
+48jtjrmzvtct
+[ '4', '8' ]
+48
+[ '9', '6', '5' ]
+pzpthxqxs9pjkhxc6gk5
+[ '9', '6', '5' ]
+95
+[ 'eight', '2' ]
+eightbdvrcsg2tgjkzzj
+[ '8', '2' ]
+82
+[ '2', 'one', 'eight', 'one' ]
+2oneeightonemlgpgtdg
+[ '2', '1', '8', '1' ]
+21
+[ '8', 'seven', 'four', '3' ]
+8sevenrxksglxdfour3lhst
+[ '8', '7', '4', '3' ]
+83
+[ 'four', '8', '8', 'seven', 'nine', '1' ]
+four88sevennine1
+[ '4', '8', '8', '7', '9', '1' ]
+41
+[ 'five', '8', 'five', 'eight' ]
+fiveqszbfmdv8xfiveeight
+[ '5', '8', '5', '8' ]
+58
+[ '3', 'nine', '5', 'two' ]
+sqqbhtk3nine5mqzkzbzlxlhdtwo
+[ '3', '9', '5', '2' ]
+32
+[ '8', 'eight', 'one' ]
+8eightone
+[ '8', '8', '1' ]
+81
+[ '6', '3', 'one', '7', '5' ]
+63njcjnbhptone75fqhg
+[ '6', '3', '1', '7', '5' ]
+65
+[
+  'four',  'three',
+  'five',  'six',
+  '9',     'five',
+  'seven'
+]
+fourthreefivesix9pvfivehmbhmhtrplseven
+[
+  '4', '3', '5',
+  '6', '9', '5',
+  '7'
+]
+47
+[ '5', 'four', 'five', 'nine', '8', 'four' ]
+5fourbfnzxfivenine8four
+[ '5', '4', '5', '9', '8', '4' ]
+54
+[ '9', 'seven', '6', '9' ]
+rzhqrxfhpf9seven69kcjhxv
+[ '9', '7', '6', '9' ]
+99
+[ '3', 'four', 'four', '3', '7' ]
+nlh3fourfourlbppcjdx37
+[ '3', '4', '4', '3', '7' ]
+37
+[ 'one', 'three', 'six', '3', 'two', '6' ]
+hntmdckqhonejmcfphrrthreesix3two6
+[ '1', '3', '6', '3', '2', '6' ]
+16
+[ 'eight', '7', 'seven', 'one', 'four', 'four' ]
+eight7sevenonefourfour
+[ '8', '7', '7', '1', '4', '4' ]
+84
+[
+  'six',   'one',
+  '1',     '5',
+  'three', 'six',
+  'five'
+]
+nkhfgtknbjsixzrpppnqsone15threesixfive
+[
+  '6', '1', '1',
+  '5', '3', '6',
+  '5'
+]
+65
+[ 'nine', '5', 'four', 'five', '3' ]
+nine5xlvfqmfourfive3
+[ '9', '5', '4', '5', '3' ]
+93
+[ 'four', '6', 'eight', '4' ]
+sscctsdfourkppsrd6eight4
+[ '4', '6', '8', '4' ]
+44
+[ 'eight', '9', '2' ]
+eight92
+[ '8', '9', '2' ]
+82
+[ '1', 'one', 'eight' ]
+1oneightfs
+[ '1', '1', '8' ]
+18
+[ '2', '1', 'three' ]
+2hmgrqgjznhh1xztfmthreev
+[ '2', '1', '3' ]
+23
+[ '3' ]
+jvpzlqbsrb3
+[ '3' ]
+33
+[ '3' ]
+pszdpm3
+[ '3' ]
+33
+[ '2' ]
+kccl2
+[ '2' ]
+22
+[ 'five', '6', '3', '3', '8', 'seven' ]
+dzxmqpgfive6338seven
+[ '5', '6', '3', '3', '8', '7' ]
+57
+[ '9' ]
+9nqfpv
+[ '9' ]
+99
+[ 'four', 'nine', 'six', '5', 'six' ]
+prphfourninesix5six
+[ '4', '9', '6', '5', '6' ]
+46
+[ '5', '7', '7' ]
+57vbcbcvtbgtqmktjscjbzfkjgzzv7rspqlrdfsmbsvbmb
+[ '5', '7', '7' ]
+57
+[ 'eight', 'four', '4' ]
+qxqlzmeightfourhzvctqsxczg4qggztsnrzz
+[ '8', '4', '4' ]
+84
+[ '7', '9', 'seven', '8', '9', '7', 'one' ]
+79seven8rzgzhksz97tbrftfllmpone
+[
+  '7', '9', '7',
+  '8', '9', '7',
+  '1'
+]
+71
+[ 'two', '9', '2', '2' ]
+twovdspsvmftgnfjdqgjpv92qdqzcgr2
+[ '2', '9', '2', '2' ]
+22
+[ '6', 'nine', 'seven', 'nine', '1', 'eight' ]
+6ninesevenninecxzmvlczjf1eight
+[ '6', '9', '7', '9', '1', '8' ]
+68
+[ '1', '8', '6' ]
+186
+[ '1', '8', '6' ]
+16
+[
+  'four', 'two',
+  '3',    '2',
+  '4',    'five',
+  '5',    'eight'
+]
+fourtwo324five5eightv
+[
+  '4', '2', '3',
+  '2', '4', '5',
+  '5', '8'
+]
+48
+[
+  'six', '9',
+  '5',   'five',
+  '1',   '4',
+  'two'
+]
+six95five1tnpsqkr4twocgnbrtr
+[
+  '6', '9', '5',
+  '5', '1', '4',
+  '2'
+]
+62
+[ 'three', 'six', '2' ]
+threesix2ksh
+[ '3', '6', '2' ]
+32
+[ '4', '5', '7', 'six', 'eight', '3' ]
+dpbbkpxvd457sixbncfnkbleight3
+[ '4', '5', '7', '6', '8', '3' ]
+43
+[ '2', 'five' ]
+bxrbglhfcz2five
+[ '2', '5' ]
+25
+[
+  '8',     'three',
+  '3',     'five',
+  'three', '5',
+  '4',     'nine'
+]
+8three3fivethreeqjg54nine
+[
+  '8', '3', '3',
+  '5', '3', '5',
+  '4', '9'
+]
+89
+[ 'nine', 'one', '9' ]
+nineonepvhrzcdm9lbqqgrdmggzkqzvhnbczrhhvjz
+[ '9', '1', '9' ]
+99
+[ '3' ]
+3rgljppmcftqmqkqbl
+[ '3' ]
+33
+[ '9', 'three', 'seven' ]
+9threeqjrjrgseven
+[ '9', '3', '7' ]
+97
+[ '4' ]
+4qtfn
+[ '4' ]
+44
+[ 'five', '7', 'four', 'four', '5' ]
+five7fourfourhbspnlmgsmxnxt5
+[ '5', '7', '4', '4', '5' ]
+55
+[ '2', '3', 'two', 'two', '3', '9' ]
+fffctbhcpklfndj23twotwo39
+[ '2', '3', '2', '2', '3', '9' ]
+29
+[
+  '6',     '2',
+  'seven', 'three',
+  'five',  '6',
+  'two'
+]
+62sevenxnxthreefive6two
+[
+  '6', '2', '7',
+  '3', '5', '6',
+  '2'
+]
+62
+[
+  '5',    '7',
+  '7',    '2',
+  'six',  '9',
+  'five'
+]
+5772six9five
+[
+  '5', '7', '7',
+  '2', '6', '9',
+  '5'
+]
+55
+[ 'seven', '5', '9', '9', 'two' ]
+seven599rpztwo
+[ '7', '5', '9', '9', '2' ]
+72
+[ 'one', 'five', 'one', 'six', '7' ]
+onefiveonemsftxtqdcsix7jngtvr
+[ '1', '5', '1', '6', '7' ]
+17
+[ '1', '2' ]
+12fttpqzzlk
+[ '1', '2' ]
+12
+[ 'four', 'three', 'three', '1', '1', 'seven' ]
+zcndrqjsfourthreethree11seven
+[ '4', '3', '3', '1', '1', '7' ]
+47
+[ 'nine', 'one', '8' ]
+nineone8
+[ '9', '1', '8' ]
+98
+[ '4' ]
+tdlbrszns4pdlptfvcnxqhx
+[ '4' ]
+44
+[ '5', 'six', '2', 'nine', '8' ]
+5six2nine8hvktskx
+[ '5', '6', '2', '9', '8' ]
+58
+[ '5', 'six', '9' ]
+5xvcnbsix9vnclxm
+[ '5', '6', '9' ]
+59
+[ '9', '4', '6', 'nine', '9', '6' ]
+94ptv6mzgninesk96
+[ '9', '4', '6', '9', '9', '6' ]
+96
+[ '4', '8' ]
+4lfvvczdgvh8rzgkmvnk
+[ '4', '8' ]
+48
+[ '7', '4', '5' ]
+74nsvkm5nztmctpmngppzkphltpx
+[ '7', '4', '5' ]
+75
+[
+  '4',    '6',
+  'two',  '9',
+  'four', '6',
+  '7',    'nine'
+]
+46two9four67nine
+[
+  '4', '6', '2',
+  '9', '4', '6',
+  '7', '9'
+]
+49
+[ 'one', 'one', 'five', '5', '3' ]
+oneonefive5fchd3nksmgs
+[ '1', '1', '5', '5', '3' ]
+13
+[ '6', 'nine' ]
+6vnstxdtlninezgdvpmjjcxlqvc
+[ '6', '9' ]
+69
+[ '6', 'five', '3' ]
+6five3
+[ '6', '5', '3' ]
+63
+[
+  '7',     'four',
+  '7',     '6',
+  'five',  'one',
+  'eight'
+]
+7four76rklqgljhdzzhdcqrqzpxmfftbcfiveoneightjzg
+[
+  '7', '4', '7',
+  '6', '5', '1',
+  '8'
+]
+78
+[
+  '4',     '3',
+  'eight', '4',
+  '3',     '9',
+  '5',     '5',
+  'four'
+]
+43eight43955four
+[
+  '4', '3', '8',
+  '4', '3', '9',
+  '5', '5', '4'
+]
+44
+[ 'seven', '1', 'four', 'nine', 'eight' ]
+gsrrtkpqpseven1fourbfninereight
+[ '7', '1', '4', '9', '8' ]
+78
+[
+  '6',     'two',
+  'two',   '4',
+  'eight', 'eight',
+  '5'
+]
+6rvdtwotwo4eighteight5
+[
+  '6', '2', '2',
+  '4', '8', '8',
+  '5'
+]
+65
+[ 'four', 'eight', '9' ]
+foureight9
+[ '4', '8', '9' ]
+49
+[ '4', '6', '8', 'nine' ]
+468cgbctpkqninetsxskqbhmj
+[ '4', '6', '8', '9' ]
+49
+[ '7', 'two', 'nine', '4' ]
+7twonine4
+[ '7', '2', '9', '4' ]
+74
+[ '8', '5', 'three', '3', 'two' ]
+8jnssjzcgpzrvbqzmv5three3jmhfjcbtwo
+[ '8', '5', '3', '3', '2' ]
+82
+[ '4', '5', '3' ]
+4qjrgrntbfzghfkzxvmj53pcrjrlls
+[ '4', '5', '3' ]
+43
+[ 'two', '8' ]
+twonnjv8
+[ '2', '8' ]
+28
+[ '9', '7', 'three', '9', 'four' ]
+97three9zgkhgmrcfour
+[ '9', '7', '3', '9', '4' ]
+94
+[ '9', 'eight', '2', '3' ]
+9eight23
+[ '9', '8', '2', '3' ]
+93
+[ 'three', 'three', '6' ]
+qtsgznprvthreethree6
+[ '3', '3', '6' ]
+36
+[ '6', '3', 'two', 'four' ]
+63tworhdlrfstgxfmjjknfourqfvfjjz
+[ '6', '3', '2', '4' ]
+64
+[ 'seven', '8', 'three' ]
+sevenltdcgs8three
+[ '7', '8', '3' ]
+73
+[ '9', 'two' ]
+bjctzmmbhrqlfzqgxbcdgdgprv9twogjmrdclzt
+[ '9', '2' ]
+92
+[ '6', '3', 'nine', '6' ]
+63lslhrbmcznine6
+[ '6', '3', '9', '6' ]
+66
+[ '6', '6', '8', 'seven', 'two' ]
+66gc8seventwo
+[ '6', '6', '8', '7', '2' ]
+62
+[ 'two', '6', '2', '6' ]
+zdrpnjjtwo62ph6
+[ '2', '6', '2', '6' ]
+26
+[ 'nine', '3', '3', 'three', '5' ]
+ninerdxqgxtqrrgx3gz3three5lfc
+[ '9', '3', '3', '3', '5' ]
+95
+[ '3', '5', 'one', 'eight', '1', '1' ]
+lflcrscclg35oneeightpmhhm1bkftvxqbmx1
+[ '3', '5', '1', '8', '1', '1' ]
+31
+[ '7', '4' ]
+74rgb
+[ '7', '4' ]
+74
+[ 'six', '8', 'nine', '6' ]
+six8ninelvxdqphkd6
+[ '6', '8', '9', '6' ]
+66
+[ '5', 'six', 'seven', '1' ]
+5zsbfjsixseven1
+[ '5', '6', '7', '1' ]
+51
+[ '4' ]
+4rflxzvnn
+[ '4' ]
+44
+[ '4' ]
+mjbpr4qjjhvbgn
+[ '4' ]
+44
+[ '2', '6', 'four', '6' ]
+26four6drctrdmz
+[ '2', '6', '4', '6' ]
+26
+[ '6' ]
+6mrzflsszvq
+[ '6' ]
+66
+[ '1', '6' ]
+fcjbdqdnh1stglpmc6nmvggcvnrghcpcnz
+[ '1', '6' ]
+16
+[ 'one', '2', 'four', '4', '8', 'four' ]
+one2four48fourcgkvvnlzlb
+[ '1', '2', '4', '4', '8', '4' ]
+14
+[ '2', '4', '6', '1', 'two' ]
+kc2461two
+[ '2', '4', '6', '1', '2' ]
+22
+[ 'five', 'three', '5', '4' ]
+fivethree54dbvxmf
+[ '5', '3', '5', '4' ]
+54
+[ '8', '4', '9', '9', 'six' ]
+849psvj9six
+[ '8', '4', '9', '9', '6' ]
+86
+[ '5', 'eight', '4' ]
+hnxg5rbhbqzzeight4
+[ '5', '8', '4' ]
+54
+[ 'six', '4', '5', '5', 'two', '4' ]
+zzsix45glphncrrq5two4nqrdsk
+[ '6', '4', '5', '5', '2', '4' ]
+64
+[ 'seven', 'three', '5', 'four', '7', 'eight' ]
+seventhree5qpfour7nnbllpkgveight
+[ '7', '3', '5', '4', '7', '8' ]
+78
+[ '7', '8', 'seven', '8' ]
+bsh78mzxzhhseven8
+[ '7', '8', '7', '8' ]
+78
+[ 'five', '7', 'seven', 'nine', 'nine' ]
+jllhfive7sevenninebcmninet
+[ '5', '7', '7', '9', '9' ]
+59
+[ 'nine', 'seven', '4' ]
+nineseven4pdkfpdzqpbzgt
+[ '9', '7', '4' ]
+94
+[ 'seven', 'nine', 'three', '5', 'eight' ]
+sevenninetbthree5skjmeightfpjrq
+[ '7', '9', '3', '5', '8' ]
+78
+[ '6' ]
+nxkv6
+[ '6' ]
+66
+[ 'four', '5', '9' ]
+four59
+[ '4', '5', '9' ]
+49
+[ '6', 'eight', '1' ]
+zrhcvb6qlctpeightbnphxmlk1cjzdbl
+[ '6', '8', '1' ]
+61
+[ '8', 'three', 'nine', '3', '2' ]
+8mtgqjthreenine32
+[ '8', '3', '9', '3', '2' ]
+82
+[ '6', '8', '5' ]
+6slj8zqbpqmr5
+[ '6', '8', '5' ]
+65
+[ '8', 'one', 'three', 'seven' ]
+rqkvxmqtkn8oneckdxtqvxcthreehngfdqqsseven
+[ '8', '1', '3', '7' ]
+87
+[ 'nine', '4', '9', 'five', 'three', 'four' ]
+nine4nfqpgdpvx9fivethreefourfnhfjmfzqr
+[ '9', '4', '9', '5', '3', '4' ]
+94
+[ '3', '2', '6' ]
+3gdxbh2gbm6
+[ '3', '2', '6' ]
+36
+[ '7', '2', '9', '8', 'two' ]
+72qmrrqbsflqpspdp9ff8two
+[ '7', '2', '9', '8', '2' ]
+72
+[ '5', 'four', '5', '9', '7' ]
+xgbphtnjfrg5fourdfmsmqhfp597
+[ '5', '4', '5', '9', '7' ]
+57
+[ '8' ]
+bkkpgrhj8hlbsqmjdjqxjtjkrgppjgszpmm
+[ '8' ]
+88
+[ 'five', '7', '1' ]
+five71
+[ '5', '7', '1' ]
+51
+[ '9', '1', 'four' ]
+9rmmf1hqqsmdrrfour
+[ '9', '1', '4' ]
+94
+[ '7', 'nine', '6', 'seven', 'three' ]
+7ninelflmvj6seventhree
+[ '7', '9', '6', '7', '3' ]
+73
+[ '1', '7', '2' ]
+172
+[ '1', '7', '2' ]
+12
+[ '1' ]
+tfhqv1
+[ '1' ]
+11
+[
+  'two',  'one',
+  'nine', 'nine',
+  '6',    'eight',
+  'two'
+]
+jfbtwoneninenine6dgxnqjgsteighttwo
+[
+  '2', '1', '9',
+  '9', '6', '8',
+  '2'
+]
+22
+[ '4' ]
+4dnvfvx
+[ '4' ]
+44
+[ '3', '7', '6', 'three', '4', '8' ]
+37sj6three48nfjtclz
+[ '3', '7', '6', '3', '4', '8' ]
+38
+[ '2', 'two', '4', 'seven' ]
+2two4fsbbmrtnlqljqdskqseven
+[ '2', '2', '4', '7' ]
+27
+[ '1', '3', 'seven', 'five' ]
+1pnpzdr3sevenfive
+[ '1', '3', '7', '5' ]
+15
+[ 'four', '9' ]
+fourrbktzvtslxjdz9
+[ '4', '9' ]
+49
+[ '4', '7', 'six' ]
+47six
+[ '4', '7', '6' ]
+46
+[ 'four', '3', '6', 'nine', '3' ]
+jgcrllvbsvnrnmqfppxjfournbmjgp36nineb3
+[ '4', '3', '6', '9', '3' ]
+43
+[ '6', '4', 'four', '4' ]
+s6fgr4four4
+[ '6', '4', '4', '4' ]
+64
+[ '8', 'three', '7' ]
+cmpvp8three7
+[ '8', '3', '7' ]
+87
+[ '5' ]
+xjqmgdrvtlv5xmcpnkhvfhrbjzx
+[ '5' ]
+55
+[ '1', '1', '7', 'eight' ]
+117eight
+[ '1', '1', '7', '8' ]
+18
+[ '9', 'one', 'seven' ]
+9snnxnrccnonepdbfhhqcnpsevendsffjsvknpvmkdxp
+[ '9', '1', '7' ]
+97
+[ 'six', '6', 'six', '8', 'nine' ]
+rgsix6rqzsix8nine
+[ '6', '6', '6', '8', '9' ]
+69
+[ 'nine', '8', 'two' ]
+nine8two
+[ '9', '8', '2' ]
+92
+[ '2', 'two', '4', 'two' ]
+2clfqtxkztwo4twobjscfzptgn
+[ '2', '2', '4', '2' ]
+22
+[ '6', '5', '5', 'five' ]
+6s5dnfkpxts5five
+[ '6', '5', '5', '5' ]
+65
+[ 'five', '9' ]
+five9cst
+[ '5', '9' ]
+59
+[ 'eight', '7', '1', '3' ]
+eight71dmbdqfgtpvj3
+[ '8', '7', '1', '3' ]
+83
+[ '3', 'nine', '3', 'four', 'eight', 'five' ]
+vdf3fjfsczlvvnine3foureightfivennhqmcdbdb
+[ '3', '9', '3', '4', '8', '5' ]
+35
+[ 'two', '5', '9', 'eight', '9' ]
+two59eight9
+[ '2', '5', '9', '8', '9' ]
+29
+[ 'eight', '7', 'nine', '9' ]
+eightdkfmscfmzrk7ninespg9
+[ '8', '7', '9', '9' ]
+89
+[ 'six', 'seven', '4', '6', 'seven' ]
+sixseven46seven
+[ '6', '7', '4', '6', '7' ]
+67
+[ '4', '9', '3', 'six', '1' ]
+493djtvlhsixnhnts1sss
+[ '4', '9', '3', '6', '1' ]
+41
+[ 'nine', 'two', 'three', '3', 'three' ]
+ninepczttwothreemtz3three
+[ '9', '2', '3', '3', '3' ]
+93
+[ 'five', 'four', '8', 'eight', 'nine', 'two' ]
+fivezlfjhqnknnhdfour8eightninetwo
+[ '5', '4', '8', '8', '9', '2' ]
+52
+[ '4', 'five', '1', '9' ]
+4ngvsvfivemgthtlcczfbjq1ngxvsbmt9
+[ '4', '5', '1', '9' ]
+49
+[ 'six', '2' ]
+sixcgkmnd2
+[ '6', '2' ]
+62
+[ '1', '2' ]
+12
+[ '1', '2' ]
+12
+[ '9', 'three', 'six', '1' ]
+nkgbpqfvvb9threesixqgqvjgzdxm1rc
+[ '9', '3', '6', '1' ]
+91
+[ 'five', '7', 'seven' ]
+five7seven
+[ '5', '7', '7' ]
+57
+[ '2', 'seven', '8', '1', '5', '1' ]
+2seven8151
+[ '2', '7', '8', '1', '5', '1' ]
+21
+[ '8', '6', 'eight', 'five', 'three', '4' ]
+86eightfivethreebgbfvr4
+[ '8', '6', '8', '5', '3', '4' ]
+84
+[ '3', '5', '5' ]
+355
+[ '3', '5', '5' ]
+35
+[ '8', 'four', '2', '4', 'five' ]
+hgldv8four2dzmtpdsmck4five
+[ '8', '4', '2', '4', '5' ]
+85
+[ 'nine', '7', '3', '1', 'four' ]
+ninemb7gtqzrpbt31fourndtsjkhv
+[ '9', '7', '3', '1', '4' ]
+94
+[
+  '3',    'five',
+  'four', 'nine',
+  'one',  '3',
+  '2'
+]
+3fivefourghlmgfhninesbtcsqone32
+[
+  '3', '5', '4',
+  '9', '1', '3',
+  '2'
+]
+32
+[ '7', 'two', '4', 'six', 'three' ]
+7krkptwo4qmzhvpsixthree
+[ '7', '2', '4', '6', '3' ]
+73
+[ '7', '4', 'three', 'five', 'five' ]
+74ppbsmnpfthreefivefive
+[ '7', '4', '3', '5', '5' ]
+75
+[ '9', 'four', '5', '6' ]
+9four5zdkprcnbtl6
+[ '9', '4', '5', '6' ]
+96
+[ 'four', '3', 'seven', 'eight' ]
+four3seveneightbrmdbcxxrk
+[ '4', '3', '7', '8' ]
+48
+[ 'two', 'three', '4', 'eight', '9' ]
+twothreerdvxmqsbtgtszmxr4eight9jzbxpfstc
+[ '2', '3', '4', '8', '9' ]
+29
+[
+  '7',     '3',
+  '7',     '3',
+  'six',   '6',
+  'three', '1'
+]
+73prc73six6three1
+[
+  '7', '3', '7',
+  '3', '6', '6',
+  '3', '1'
+]
+71
+[ '9', 'five', 'six', '5', 'five' ]
+9fivesix5fivepsg
+[ '9', '5', '6', '5', '5' ]
+95
+[ 'two', '9', '8', 'two', '9', '8' ]
+two98two98
+[ '2', '9', '8', '2', '9', '8' ]
+28
+[ 'one', 'seven', 'three', 'three', '4' ]
+oneseventhreethree4qvjtzksdsz
+[ '1', '7', '3', '3', '4' ]
+14
+[ '2', '2' ]
+tnbsgjqdkl22
+[ '2', '2' ]
+22
+[ '4', 'seven', '4', '5' ]
+rmlbp4seven45
+[ '4', '7', '4', '5' ]
+45
+[ '9', '2', 'five' ]
+9dpzqbds2pffivefqrchvhpvjbtnl
+[ '9', '2', '5' ]
+95
+[ '7', '9', 'two', 'four', 'eight', '5' ]
+79hdzstwofoureight5bjs
+[ '7', '9', '2', '4', '8', '5' ]
+75
+[ '2' ]
+t2
+[ '2' ]
+22
+[ '4', '9', 'five', 'five' ]
+4pstpbdkxblnmv9nzfzsttfgfivefiverrtlmgj
+[ '4', '9', '5', '5' ]
+45
+[ 'three', '3', 'eight', 'seven' ]
+zkkhkggtthree3eightseven
+[ '3', '3', '8', '7' ]
+37
+[ '1', '1', 'four' ]
+d11fourzfcnmzbxgbpf
+[ '1', '1', '4' ]
+14
+[
+  '6', '6', 'six',
+  '5', '3', '8',
+  '5'
+]
+66six53klhrdnbtp85
+[
+  '6', '6', '6',
+  '5', '3', '8',
+  '5'
+]
+65
+[ 'one', 'nine', 'one', 'five', '8' ]
+onenineonelsfhzbkjgsfivedhzlfcvh8
+[ '1', '9', '1', '5', '8' ]
+18
+[ '4', 'four' ]
+jdt4four
+[ '4', '4' ]
+44
+[ 'three', 'one', '1' ]
+bgfzvxthreeonebhlqjbprf1
+[ '3', '1', '1' ]
+31
+[ 'seven', 'four', '5' ]
+sevenfourktsxkbbgt5
+[ '7', '4', '5' ]
+75
+[ '1' ]
+mmqffp1
+[ '1' ]
+11
+[ 'six', '2', 'one', 'six' ]
+vqghrsgxpsssix2jxzvdjdconeznlgpxbqdlsncrsix
+[ '6', '2', '1', '6' ]
+66
+[ '5', 'seven', '8', 'nine' ]
+5bnzrdptseven8nine
+[ '5', '7', '8', '9' ]
+59
+[ '2', '8', 'six', 'five' ]
+zqdklqmjjc2rl8jxtmsixxftvspzlhfive
+[ '2', '8', '6', '5' ]
+25
+[ '9' ]
+vmn9
+[ '9' ]
+99
+[
+  '7',     'two',
+  'four',  '2',
+  '1',     'six',
+  'eight'
+]
+7mhhcftwofour21sixvvhlmspeight
+[
+  '7', '2', '4',
+  '2', '1', '6',
+  '8'
+]
+78
+[ 'four', '3', '5', '4', 'seven', 'five' ]
+blvhpfour354sevendrllsfivexmt
+[ '4', '3', '5', '4', '7', '5' ]
+45
+[ 'six', '5', 'five', 'two', '8', '3' ]
+six5fivetxrvnvftfvgcddshzktwo83
+[ '6', '5', '5', '2', '8', '3' ]
+63
+[ '3' ]
+3mdcpcj
+[ '3' ]
+33
+[ '8', 'nine', 'three', '6', 'eight' ]
+zdtjmglv8rkgpfvninethreetfgmx6sksteight
+[ '8', '9', '3', '6', '8' ]
+88
+[
+  '4',    '8',
+  'five', '8',
+  'two',  'one',
+  '7'
+]
+48five8mnstwoone7nv
+[
+  '4', '8', '5',
+  '8', '2', '1',
+  '7'
+]
+47
+[ 'nine', 'nine', '3', 'one', 'eight' ]
+cbpvqbddlllczgfmninenine3zqvptoneightx
+[ '9', '9', '3', '1', '8' ]
+98
+[ '1', 'two', '2' ]
+1two2
+[ '1', '2', '2' ]
+12
+[ '3', '5', 'three', 'six' ]
+jxfhzr35threesixlxghqbqtq
+[ '3', '5', '3', '6' ]
+36
+[
+  '7',    'seven',
+  'nine', 'two',
+  '2',    'seven',
+  'two'
+]
+nftv7sevenninetwo2seventwonnkbvqnjjx
+[
+  '7', '7', '9',
+  '2', '2', '7',
+  '2'
+]
+72
+[ 'eight', 'eight', '6', '4' ]
+eightgjeight6f4
+[ '8', '8', '6', '4' ]
+84
+[ '2', 'five', 'seven', '2', 'two' ]
+2fivessrktznhjvxmghnlhbmfseven2two
+[ '2', '5', '7', '2', '2' ]
+22
+[ 'one', '8', '2', '4' ]
+onedhvdg82xdvgmhxzbqrpzlnfx4
+[ '1', '8', '2', '4' ]
+14
+[ '1', '7', '9' ]
+17nzhkkpchk9
+[ '1', '7', '9' ]
+19
+[ '6', 'seven', 'six', 'eight', 'three' ]
+dzccfzphmz6sevensixeightmcvxsthree
+[ '6', '7', '6', '8', '3' ]
+63
+[ 'one', 'six', '1', 'two' ]
+onettfmvfhgsix1two
+[ '1', '6', '1', '2' ]
+12
+[ 'eight', 'one', '3', '7' ]
+eightone37
+[ '8', '1', '3', '7' ]
+87
+[ '2', 'one', '4', 'four', 'seven' ]
+2onepdnbrbxk4foursevenzrmzmvqzgstppr
+[ '2', '1', '4', '4', '7' ]
+27
+[ 'five', '5', '3', '6', 'seven', '9', '6' ]
+five536seventhj96
+[
+  '5', '5', '3',
+  '6', '7', '9',
+  '6'
+]
+56
+[ '4' ]
+nlhqljfzmb4khqtjh
+[ '4' ]
+44
+[ '8' ]
+j8l
+[ '8' ]
+88
+[ '2', 'one', 'four' ]
+2kpmrhmhonefour
+[ '2', '1', '4' ]
+24
+[ '2', 'six' ]
+2jblsixkbblgzbfprhbjnrtspcqs
+[ '2', '6' ]
+26
+[ '6', 'two', 'three' ]
+6twothree
+[ '6', '2', '3' ]
+63
+[ 'two', '1', '9', 'eight', '9' ]
+two19eight9
+[ '2', '1', '9', '8', '9' ]
+29
+[ 'five', 'three', '9' ]
+fivexbrjpnhhlvdztthree9
+[ '5', '3', '9' ]
+59
+[ '9', 'one', 'one', 'one' ]
+jzlmvxjn9oneoneone
+[ '9', '1', '1', '1' ]
+91
+[ '2', 'seven', '2', 'five', 'nine', 'five' ]
+2cnqphtdjgdnhbkseven2fiveninefive
+[ '2', '7', '2', '5', '9', '5' ]
+25
+[ 'three', 'two', 'nine', '6', '7' ]
+threetwonine67tqpbdfhfbv
+[ '3', '2', '9', '6', '7' ]
+37
+[ '5', '6', 'five', '6', 'nine' ]
+smgr56slfpdmfive6ninehmqrck
+[ '5', '6', '5', '6', '9' ]
+59
+[ '6', 'six', '7', '5', 'nine' ]
+fqqnjqpccjqt6six75lpfczmnine
+[ '6', '6', '7', '5', '9' ]
+69
+[ '2', 'six', 'three' ]
+bq2mdxchhmbxfzzkqgsixrbcpklpqnxsvnbthree
+[ '2', '6', '3' ]
+23
+[ 'eight', 'three', '8' ]
+eightthreefxxssg8cx
+[ '8', '3', '8' ]
+88
+[ '6' ]
+lhlc6
+[ '6' ]
+66
+[ 'nine', '6', 'one' ]
+nine6onexmvlbtbxznmrztnv
+[ '9', '6', '1' ]
+91
+[ '8', 'five', 'eight', 'two' ]
+8fivedlxzgxxflbltteighttwochtxlfjx
+[ '8', '5', '8', '2' ]
+82
+[ 'seven', 'eight', 'four', '1', 'three', '4' ]
+seveneightfour1three4gbcnnk
+[ '7', '8', '4', '1', '3', '4' ]
+74
+[ '8', 'five', 'one', 'nine', 'six', '6' ]
+8fivejtxbpvmpxoneninesixzdrjhtncbnkgpsxqs6
+[ '8', '5', '1', '9', '6', '6' ]
+86
+[ '1', '8', '4', 'eight' ]
+1hxsxn84eight
+[ '1', '8', '4', '8' ]
+18
+[ 'seven', 'seven', '7', '1', '4' ]
+sevenseven71phgltmtxq4
+[ '7', '7', '7', '1', '4' ]
+74
+[ '8', 'five', 'three', '3' ]
+8fivepcqthree3dn
+[ '8', '5', '3', '3' ]
+83
+[ '6' ]
+f6bbrdqflknp
+[ '6' ]
+66
+[ 'five', '9', 'nine' ]
+fiverpjbb9rjbrfrlrnine
+[ '5', '9', '9' ]
+59
+[ '5', 'seven', 'eight', 'five' ]
+zfqpjjktg5seveneightfiveltvvtxdfk
+[ '5', '7', '8', '5' ]
+55
+[ '6' ]
+flhnczsbx6
+[ '6' ]
+66
+[ 'four', '7', 'four', '9', 'six', '2' ]
+tsqlvphjmfourrcqsjj7four9six2rnz
+[ '4', '7', '4', '9', '6', '2' ]
+42
+[ 'five', 'two', 'one', '1' ]
+fivedmznjqtwoqmone1
+[ '5', '2', '1', '1' ]
+51
+[ 'eight', '3', '9', '2' ]
+eightfllck3spsfrgz92gmcgkgg
+[ '8', '3', '9', '2' ]
+82
+[ 'seven', 'six', '9', '1' ]
+tcrrrztsevensixqthpdqgxv91vvhbsqgzkq
+[ '7', '6', '9', '1' ]
+71
+[ '2', '2', '5', '5', '4' ]
+22pztfnhh554qdvzjxnnzzrj
+[ '2', '2', '5', '5', '4' ]
+24
+[ '4' ]
+tscrkt4
+[ '4' ]
+44
+[ '5' ]
+fzmsgmzbz5
+[ '5' ]
+55
+[ 'three', '8', 'eight' ]
+rxzsnjhcnkthree8eight
+[ '3', '8', '8' ]
+38
+[ '9', 'four', '2', '6', '4', '8' ]
+9fourdhjpp2648
+[ '9', '4', '2', '6', '4', '8' ]
+98
+[ '4', 'two', 'six', 'six' ]
+4chvdrvtgqgbzhcxztwosixsixhnqknqmntzlltqncdxddnjlk
+[ '4', '2', '6', '6' ]
+46
+[ '2' ]
+xbfk2cr
+[ '2' ]
+22
+[
+  'nine',  '8',
+  'nine',  'eight',
+  'seven', '8',
+  'one',   '3'
+]
+hrmbslbdgnine8nineeightseven8one3
+[
+  '9', '8', '9',
+  '8', '7', '8',
+  '1', '3'
+]
+93
+[ 'one', 'six', '7', '9', '4' ]
+kmkdhbonesix79rbshvkkvjnzzq4
+[ '1', '6', '7', '9', '4' ]
+14
+[ '9', '2', '6' ]
+9jrz26
+[ '9', '2', '6' ]
+96
+[ 'seven', '1', '6', '3', 'nine' ]
+seven163nine
+[ '7', '1', '6', '3', '9' ]
+79
+[ '8', '3', 'six', '9' ]
+83sixgvhjttnhkq9frphcqrng
+[ '8', '3', '6', '9' ]
+89
+[ '8', 'five', '3', 'seven' ]
+8five3seven
+[ '8', '5', '3', '7' ]
+87
+[ 'three', '1', '6' ]
+three16xqdzlkqjjtf
+[ '3', '1', '6' ]
+36
+[ '5', 'five', 'eight', '8', 'eight', '1' ]
+5fiveeightl8veight1pxfptklnhj
+[ '5', '5', '8', '8', '8', '1' ]
+51
+[ 'five', '4', '5' ]
+npllktfive45nhvqjcjgpxx
+[ '5', '4', '5' ]
+55
+[ '9' ]
+hbfr9mm
+[ '9' ]
+99
+[ 'one', '4', 'three', 'one' ]
+onerbfkf4threeone
+[ '1', '4', '3', '1' ]
+11
+[ '7', 'eight', 'one' ]
+7eightone
+[ '7', '8', '1' ]
+71
+[ 'eight', '2', 'six', '8', 'one', '6', '1' ]
+eight2kmjlsix8one61
+[
+  '8', '2', '6',
+  '8', '1', '6',
+  '1'
+]
+81
+[ 'nine', 'nine', '3', '6' ]
+rvrnrdrninenine3zq6jqsr
+[ '9', '9', '3', '6' ]
+96
+[ 'seven', '1' ]
+lztlntnsevenpplkhkftq1
+[ '7', '1' ]
+71
+[ '3', '3', 'four', '5', 'eight' ]
+tfrrjmcvtbmktnxtxkkrcctmc33four5gfqpcjreight
+[ '3', '3', '4', '5', '8' ]
+38
+[ '3', '3' ]
+33rgcjxfsfqsvxxbxcnrjfndrrfmrtk
+[ '3', '3' ]
+33
+[
+  '3', '6', '2',
+  '7', '8', '3',
+  '7', '8'
+]
+3627837xhhb8
+[
+  '3', '6', '2',
+  '7', '8', '3',
+  '7', '8'
+]
+38
+[ '4' ]
+bmjhkkn4pgf
+[ '4' ]
+44
+[ '2', '3' ]
+qkrsvjclp23
+[ '2', '3' ]
+23
+[ '5', 'four', 'seven', '6' ]
+5fourzllbmcgkxsevengkrzkpvcmvgtxlrv6
+[ '5', '4', '7', '6' ]
+56
+[
+  'five', 'five',
+  '1',    'seven',
+  '6',    'one',
+  '3'
+]
+fivetczxxvjrrqfive1sevennvj6one3
+[
+  '5', '5', '1',
+  '7', '6', '1',
+  '3'
+]
+53
+54885
+1000
