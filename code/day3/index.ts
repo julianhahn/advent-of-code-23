@@ -1,3 +1,5 @@
+import { readFileSync } from 'fs'
+
 type numberEntry = {
     value: number
     rowIndex: number
@@ -5,12 +7,16 @@ type numberEntry = {
     colEndIndex: number
 }
 
+type gear = {
+    rowIndex: number
+    colIndex: number
+}
+
 export function part1(input: string): number {
-    let lines = splitLines(input)
-    lines = lines.map((line) => line.trim())
     let indexCounter = 0
     const values: string[][] = []
     const numbers: numberEntry[] = []
+    const lines = splitLines(input)
     for (const line of lines) {
         numbers.push(...getNumbersFromLine(line, indexCounter))
         values[indexCounter] = line.split('')
@@ -22,8 +28,88 @@ export function part1(input: string): number {
     for (let number of filtered) {
         sum += number.value
     }
-    console.log(sum)
     return sum
+}
+
+export function part2(input: string): number {
+    let indexCounter = 0
+    const values: string[][] = []
+    const lines = splitLines(input)
+    for (const line of lines) {
+        values[indexCounter] = line.split('')
+        indexCounter++
+    }
+    const gears = findAllGears(values)
+    const gearsWidthAdjacentNumbers = gears.map((gear) =>
+        getAdjacentNumbers(gear, values)
+    )
+
+    let sum = 0
+    for (let gear of gearsWidthAdjacentNumbers) {
+        if (gear.adjacent) {
+            sum += gear.numbers[0].value * gear.numbers[1].value
+        }
+    }
+    return sum
+}
+
+function getAdjacentNumbers(
+    gear: gear,
+    values: string[][]
+): { gear: gear; adjacent: boolean; numbers: numberEntry[] } {
+    // check the row above for all numbers
+    // check the own row for all numbers
+    // check the row below for all numbers
+
+    // no check for each number if it's start and end col is adjacent to the gear
+    // if so save it in a adjacentNumbers array
+    // if adjacentNumbers.length === 2 return true - we need to match exactly two numbers
+    // else return false
+
+    const numbersToCheck: numberEntry[] = []
+    const hasRowAbove = gear.rowIndex > 0
+    if (hasRowAbove) {
+        numbersToCheck.push(
+            ...getNumbersFromLine(
+                values[gear.rowIndex - 1].join(''),
+                gear.rowIndex - 1
+            )
+        )
+    }
+    numbersToCheck.push(
+        ...getNumbersFromLine(values[gear.rowIndex].join(''), gear.rowIndex)
+    )
+    const hasRowBelow = gear.rowIndex < values.length - 1
+    if (hasRowBelow) {
+        numbersToCheck.push(
+            ...getNumbersFromLine(
+                values[gear.rowIndex + 1].join(''),
+                gear.rowIndex + 1
+            )
+        )
+    }
+    const numbersAdjacent = numbersToCheck.filter((number) =>
+        checkIfNumberIsAdjacentToGear(gear, number)
+    )
+    if (numbersAdjacent.length === 2) {
+        return { gear: gear, adjacent: true, numbers: numbersAdjacent }
+    }
+    return { gear: gear, adjacent: false, numbers: [] }
+}
+
+function checkIfNumberIsAdjacentToGear(gear: gear, number: numberEntry) {
+    if (
+        gear.rowIndex !== number.rowIndex &&
+        gear.rowIndex !== number.rowIndex - 1 &&
+        gear.rowIndex !== number.rowIndex + 1
+    ) {
+        return false
+    }
+    if (
+        number.colEndIndex >= gear.colIndex - 1 &&
+        number.colStartIndex <= gear.colIndex + 1
+    )
+        return true
 }
 
 function hasSymbolAdjacent(number: numberEntry, values: string[][]): boolean {
@@ -106,5 +192,25 @@ function getEndIndexFromNumber(number: number, startIndex: number): number {
 }
 
 function splitLines(input: string): string[] {
-    return input.split(/\r?\n/)
+    let lines = input.split(/\r?\n/)
+    lines = lines.map((line) => line.trim())
+    return lines
 }
+
+function findAllGears(values: string[][]): gear[] {
+    const gears: gear[] = []
+    for (let i = 0; i < values.length; i++) {
+        for (let j = 0; j < values[i].length; j++) {
+            if (values[i][j] === '*') {
+                gears.push({ rowIndex: i, colIndex: j })
+            }
+        }
+    }
+    return gears
+}
+
+function main() {
+    const input = readFileSync('input.txt', 'utf8')
+    console.log(part2(input))
+}
+main()
