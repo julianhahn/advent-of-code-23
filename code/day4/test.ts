@@ -1,4 +1,4 @@
-import { part1 } from '.'
+import { part1, part2 } from '.'
 
 const exampleString = `Card 1: 41 48 83 86 17 | 83 86  6 31 17  9 48 53
 Card 2: 13 32 20 16 61 | 61 30 68 82 17 32 24 19
@@ -10,3 +10,9 @@ Card 6: 31 18 13 56 72 | 74 77 10 23 35 67 36 11`
 test('', () => {
     expect(part1(exampleString)).toBe(13)
 })
+
+test('', () => {
+    expect(part2(exampleString)).toBe(30)
+})
+// what should I test for?
+// If i have a card
